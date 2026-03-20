@@ -1,0 +1,592 @@
+FieldSite,Location,Date,Year,GroupSize,Context,ContextType,CallerName,SndFile_orig,Tape,Track,ElapsedTime,S.M.SoundFile,MultipleCallConfiguration,SndFile,ContextTypeNew,Fam,tape_track,sequence_group,context_group,SndFile_mod
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Affiliative,greeting,Echo,B3413057,34,11,13057,Single,NA,B3413057.wav,Greeting,EB,1999-08-26_34_11,102,102_Greeting,001_B3413057.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Affiliative,greeting,Erin,B3413115,34,11,13115,Multiple,MultipleOverlappingCalls,B3413115.wav,Greeting,EB,1999-08-26_34_11,102,102_Greeting,002_B3413115.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Affiliative,little greeting,Echo,B3413256,34,11,13256,Multiple,TwoOverlappingCalls,B3413256.wav,Little greeting,EB,1999-08-26_34_11,102,102_Little greeting,001_B3413256.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,Edwina,B3415400,34,14,15345,Single,NA,B3415400.wav,Contact,EB,1999-08-26_34_14,103,103_Contact,001_B3415400.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,Erin,B3415407,34,14,15358,Single,NA,B3415407.wav,Contact,EB,1999-08-26_34_14,103,103_Contact,002_B3415407.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,Edwina,B3415520,34,14,15520,Single,NA,B3415520.wav,Contact,EB,1999-08-26_34_14,103,103_Contact,003_B3415520.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,Edwina,B3415557,34,14,15557,Single,NA,B3415557_B3415609_part1.wav,Contact,EB,1999-08-26_34_14,103,103_Contact,004_B3415557_B3415609_part1.wav
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,Erin,B3415608,34,14,15606,Multiple,TwoOverlappingCalls,B3415608_B3415609_part2.wav,Contact,EB,1999-08-26_34_14,103,103_Contact,005_B3415608_B3415609_part2.wav
+Amboseli,Ol Tukai Orok,8/29/99,1999,40,Affiliative,little greeting,Erin,B3703520,37,6,3518,Single,NA,B3703520_part1.wav,Little greeting,EB,1999-08-29_37_6,106,106_Little greeting,001_B3703520_part1.wav
+Amboseli,Ol Tukai Orok,8/29/99,1999,40,Affiliative,little greeting,Echo,B3703520,37,6,3520,Single,NA,B3703520_part2.wav,Little greeting,EB,1999-08-29_37_6,106,106_Little greeting,002_B3703520_part2.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Enid,B3711329,37,13,11354,Multiple,MultipleOverlappingCalls,B3711329.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,001_B3711329.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eliot,B3711704,37,13,11704,Single,NA,B3711704.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,002_B3711704.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora/Eliot,B3711726,37,13,11725,Multiple,MultipleOverlappingCalls,B3711726_B3712020_part1.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,003_B3711726_B3712020_part1.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora,B3711726,37,13,11726,Multiple,MultipleOverlappingCalls,B3711726_B3712020_part1.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,003_B3711726_B3712020_part1.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Erin,B3711735,37,13,11732,Multiple,MultipleOverlappingCalls,B3711735_B3712020_part2.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,004_B3711735_B3712020_part2.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eliot/Eudora,B3711735,37,13,11735,Multiple,MultipleOverlappingCalls,B3711735_B3712020_part2.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,004_B3711735_B3712020_part2.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora/Eliot,B3711735,37,13,11737,Multiple,MultipleOverlappingCalls,B3711735_B3712020_part2.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,004_B3711735_B3712020_part2.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora & Erin & Eliot,B3711805,37,13,11805,Multiple,MultipleOverlappingCalls,B3711805_B3712020_part3.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,005_B3711805_B3712020_part3.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora & Erin & Eliot,B3711805,37,13,11805,Multiple,MultipleOverlappingCalls,B3711805_B3712020_part4.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,006_B3711805_B3712020_part4.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eudora & Erin & Eliot,B3711805,37,13,11805,Multiple,MultipleOverlappingCalls,B3711805_B3712020_part5.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,007_B3711805_B3712020_part5.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eud & Erin & Eli & Ebo,B3711827,37,13,11827,Multiple,MultipleOverlappingCalls,B3711827_B3712020_part6.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,008_B3711827_B3712020_part6.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eleanor,B3711858,37,13,11858,Single,NA,B3711858_B3712020_part7.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,009_B3711858_B3712020_part7.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Eud & Erin & Eli & Ebo & Elea,B3711952,37,13,11952,Multiple,MultipleOverlappingCalls,B3711952_B3712020_part8.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,010_B3711952_B3712020_part8.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Unknown,B3712005,37,13,12005,Single,TwoOverlappingCalls,B3712005_B3712020_part9.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,011_B3712005_B3712020_part9.wav
+Amboseli,Ol Tukai Orok,8/30/99,1999,22,Affiliative,greeting,Unknown,B3712019,37,13,12019,Single,TwoOverlappingCalls,B3712019_B3712020_part10.wav,Greeting,EB,1999-08-30_37_13,107,107_Greeting,012_B3712019_B3712020_part10.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,23,Movement Space & Leadership,contact,Enid,B4203122,42,3,3115,Multiple,TwoOverlappingCalls,B4203122.wav,Contact,EB,1999-12-12_42_3,112,112_Contact,001_B4203122.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,23,Movement Space & Leadership,contact,Ella,B4203715,42,3,3715,Multiple,TwoOverlappingCalls,B4203715.wav,Contact,EB,1999-12-12_42_3,112,112_Contact,002_B4203715.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,23,Movement Space & Leadership,contact,Eleanor,B4203715,42,3,3716,Multiple,TwoOverlappingCalls,B4203715.wav,Contact,EB,1999-12-12_42_3,112,112_Contact,002_B4203715.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,23,Movement Space & Leadership,contact,Ella,B4203852,42,3,3852,Multiple,TwoOverlappingCalls,B4203852.wav,Contact,EB,1999-12-12_42_3,112,112_Contact,003_B4203852.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,23,Movement Space & Leadership,contact,Eleanor/Enid/Erin,B4203852,42,3,3856,Multiple,TwoOverlappingCalls,B4203852.wav,Contact,EB,1999-12-12_42_3,112,112_Contact,003_B4203852.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,Eliot,B4300030,43,2,32,Multiple,TwoOverlappingCalls,B4300030.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,001_B4300030.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,Eliot,B4300046,43,2,46,Single,NA,B4300046.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,002_B4300046.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,Eliot,B4300056,43,2,53,Multiple,MultipleOverlappingCalls,B4300056.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,003_B4300056.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,EB female,B4300056,43,2,54,Multiple,MultipleOverlappingCalls,B4300056.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,003_B4300056.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,EB female,B4300056,43,2,56,Multiple,MultipleOverlappingCalls,B4300056.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,003_B4300056.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,Eliot,B4300124,43,2,120,Multiple,MultipleOverlappingCalls,B4300124.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,004_B4300124.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,EB female,B4300124,43,2,124,Multiple,MultipleOverlappingCalls,B4300124.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,004_B4300124.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Affiliative,greeting,EB female,B4300124,43,2,126,Multiple,MultipleOverlappingCalls,B4300124.wav,Greeting,EB,1999-12-12_43_2,113,113_Greeting,004_B4300124.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Calf Reassurance & Protection,coo,Edwina,B4301454,43,3,1454,Single,NA,B4301454.wav,Coo,EB,1999-12-12_43_3,114,114_Coo,001_B4301454.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Calf Reassurance & Protection,coo,Edwina,B4301512,43,3,1512,Single,NA,B4301512.wav,Coo,EB,1999-12-12_43_3,114,114_Coo,002_B4301512.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Calf Reassurance & Protection,coo,Edwina,B4301742,43,3,1742,Single,NA,B4301742.wav,Coo,EB,1999-12-12_43_3,114,114_Coo,003_B4301742.wav
+Amboseli,Ol Tukai Orok,12/12/99,1999,50,Calf Reassurance & Protection,coo,Edwina,B4301752,43,3,1752,Single,NA,B4301752.wav,Coo,EB,1999-12-12_43_3,114,114_Coo,004_B4301752.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Elspeth,B4510148,45,12,10144,Multiple,MultipleOverlappingCalls,B4510148.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,001_B4510148.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Echo,B4510148,45,12,10145,Multiple,MultipleOverlappingCalls,B4510148.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,001_B4510148.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Erin,B4510148,45,12,10147,Multiple,MultipleOverlappingCalls,B4510148.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,001_B4510148.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Elspeth,B4510202,45,12,10202,Multiple,TwoOverlappingCalls,B4510202.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,002_B4510202.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,EB,B4510216,45,12,10216,Multiple,MultipleOverlappingCalls,B4510216.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,003_B4510216.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora/Elspeth/Others,B4510250,45,12,10244,Multiple,MultipleOverlappingCalls,B4510250.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,004_B4510250.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora/Elspeth/Others,B4510250,45,12,10248,Multiple,MultipleOverlappingCalls,B4510250.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,004_B4510250.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora/Elspeth/Others,B4510250,45,12,10250,Multiple,MultipleOverlappingCalls,B4510250.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,004_B4510250.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora/Elspeth/Others,B4510250,45,12,10252,Multiple,MultipleOverlappingCalls,B4510250.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,004_B4510250.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Elspeth,B4510404,45,12,10404,Multiple,MultipleOverlappingCalls,B4510404.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,005_B4510404.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora,B4510404,45,12,10406,Multiple,MultipleOverlappingCalls,B4510404.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,005_B4510404.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Eudora,B4510412,45,12,10412,Single,NA,B4510412.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,006_B4510412.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Unknown,B4510432,45,12,10432,Single,NA,B4510432.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,007_B4510432.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Elspeth,B4510532,45,12,10531,Multiple,TwoOverlappingCalls,B4510532.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,008_B4510532.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Ebony,B4510532,45,12,10532,Multiple,TwoOverlappingCalls,B4510532.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,008_B4510532.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,EB,B4510627,45,12,10619,Multiple,MultipleOverlappingCalls,B4510627.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,009_B4510627.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,EB,B4510627,45,12,10621,Multiple,MultipleOverlappingCalls,B4510627.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,009_B4510627.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,EB,B4510627,45,12,10623,Multiple,MultipleOverlappingCalls,B4510627.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,009_B4510627.wav
+Amboseli,Empaash,12/14/99,1999,200,Affiliative,greeting,Ebony,B4510627,45,12,10624,Multiple,MultipleOverlappingCalls,B4510627.wav,Greeting,EB,1999-12-14_45_12,115,115_Greeting,009_B4510627.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Enid,B4702242,47,4,2242,Single,NA,B4702242.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,001_B4702242.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Enid,B4702304,47,4,2304,Single,NA,B4702304.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,002_B4702304.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Enid,B4702319,47,4,2317,Multiple,TwoOverlappingCalls,B4702319.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,003_B4702319.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4702319,47,4,2319,Multiple,TwoOverlappingCalls,B4702319.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,003_B4702319.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Eliot,B4702439,47,4,2435,Multiple,TwoOverlappingCalls,B4702439.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,004_B4702439.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Enid,B4702439,47,4,2439,Multiple,TwoOverlappingCalls,B4702439.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,004_B4702439.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Enid,B4702623,47,4,2623,Single,NA,B4702623.wav,Cadenced,EB,1999-12-17_47_4,119,119_Cadenced,005_B4702623.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Calf Reassurance & Protection,coo,Edwina,B4710302,47,4,10300,Multiple,MultipleOverlappingCalls,B4710302.wav,Coo,EB,1999-12-17_47_4,119,119_Coo,001_B4710302.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4800933,48,3,931,Multiple,TwoOverlappingCalls,B4800933.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,001_B4800933.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4800942,48,3,940,Multiple,TwoOverlappingCalls,B4800942.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,002_B4800942.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Unknown,B4801002,48,3,1002,Single,NA,B4801002.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,003_B4801002.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4801012,48,3,1012,Multiple,MultipleOverlappingCalls,B4801012.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,004_B4801012.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4801024,48,3,1024,Multiple,TwoOverlappingCalls,B4801024.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,005_B4801024.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,EB,B4801037,48,3,1037,Multiple,TwoOverlappingCalls,B4801037.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,006_B4801037.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Movement Space & Leadership,cadenced,Unknown,B4801047,48,3,1047,Single,NA,B4801047.wav,Cadenced,EB,1999-12-17_48_3,120,120_Cadenced,007_B4801047.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Affiliative,greeting,Eudora/Echo/Enid,B4800758,48,3,758,Multiple,MultipleOverlappingCalls,B4800758.wav,Greeting,EB,1999-12-17_48_3,120,120_Greeting,001_B4800758.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Affiliative,greeting,Eudora/Echo/Enid,B4800808,48,3,808,Multiple,MultipleOverlappingCalls,B4800808.wav,Greeting,EB,1999-12-17_48_3,120,120_Greeting,002_B4800808.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Affiliative,greeting,Eudora/Echo/Enid,B4800816,48,3,816,Multiple,TwoOverlappingCalls,B4800816.wav,Greeting,EB,1999-12-17_48_3,120,120_Greeting,003_B4800816.wav
+Amboseli,Ol Tukai Orok,12/17/99,1999,40,Affiliative,greeting,Eudora/Echo/Enid,B4800824,48,3,816,Multiple,TwoOverlappingCalls,B4800824.wav,Greeting,EB,1999-12-17_48_3,120,120_Greeting,004_B4800824.wav
+Amboseli,Longinye,12/18/99,1999,50,Movement Space & Leadership,contact call,Emma,B4903328,49,12,3324,Multiple,MultipleOverlappingCalls,B4903328.wav,Contact,EB,1999-12-18_49_12,124,124_Contact,001_B4903328.wav
+Amboseli,Longinye,12/18/99,1999,50,Movement Space & Leadership,contact answer,Ella,B4903328,49,12,3327,Multiple,MultipleOverlappingCalls,B4903328.wav,Contact,EB,1999-12-18_49_12,124,124_Contact,001_B4903328.wav
+Amboseli,Longinye,12/18/99,1999,50,Movement Space & Leadership,contact acknowledgement,Emma,B4903328,49,12,3330,Multiple,MultipleOverlappingCalls,B4903328.wav,Contact,EB,1999-12-18_49_12,124,124_Contact,001_B4903328.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Eleanor,B4903354,49,12,3354,Multiple,MultipleOverlappingCalls,B4903354.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,001_B4903354.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Emma,B4903358,49,12,3358,Single,NA,B4903358.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,002_B4903358.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Emma,B4903500,49,12,3448,Multiple,MultipleOverlappingCalls,B4903500.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,003_B4903500.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Ella,B4903500,49,12,3450,Multiple,MultipleOverlappingCalls,B4903500.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,003_B4903500.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Emma,B4903500,49,12,3454,Multiple,MultipleOverlappingCalls,B4903500.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,003_B4903500.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Ella,B4903500,49,12,3458,Multiple,MultipleOverlappingCalls,B4903500.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,003_B4903500.wav
+Amboseli,Longinye,12/18/99,1999,50,Affiliative,greeting,Emma,B4903500,49,12,3500,Multiple,MultipleOverlappingCalls,B4903500.wav,Greeting,EB,1999-12-18_49_12,124,124_Greeting,003_B4903500.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,little greeting,Echo/Ella,B4905304,49,16,5313,Multiple,MultipleOverlappingCalls,B4905304.wav,Little greeting,EB,1999-12-19_49_16,125,125_Little greeting,001_B4905304.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,little greeting,Ella,B4905324,49,16,5324,Single,NA,B4905324.wav,Little greeting,EB,1999-12-19_49_16,125,125_Little greeting,002_B4905324.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,little greeting,Ella,B4905410,49,16,5408,Multiple,TwoOverlappingCalls,B4905410.wav,Little greeting,EB,1999-12-19_49_16,125,125_Little greeting,003_B4905410.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,little greeting,Eudora,B4905410,49,16,5410,Multiple,TwoOverlappingCalls,B4905410.wav,Little greeting,EB,1999-12-19_49_16,125,125_Little greeting,003_B4905410.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Calf Reassurance & Protection,coo,Eudora/Ella/Eliot/Enid/Echo,B5100915,51,1,915,Multiple,MultipleOverlappingCalls,B5100915.wav,Coo,EB,1999-12-19_51_1,126,126_Coo,001_B5100915.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,greeting,All,B5102230,51,2,2230,Multiple,MultipleOverlappingCalls,B5102230.wav,Greeting,EB,1999-12-19_51_2,127,127_Greeting,001_B5102230.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,greeting,Erin,B5102255,51,2,2255,Single,NA,B5102255.wav,Greeting,EB,1999-12-19_51_2,127,127_Greeting,002_B5102255.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,greeting,Erin,B5102330,51,2,2330,Single,NA,B5102330.wav,Greeting,EB,1999-12-19_51_2,127,127_Greeting,003_B5102330.wav
+Amboseli,Ol Tukai Orok,12/19/99,1999,23,Affiliative,greeting,Erin,B5102344,51,2,2344,Single,NA,B5102344.wav,Greeting,EB,1999-12-19_51_2,127,127_Greeting,004_B5102344.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,21,Movement Space & Leadership,contact,Eudora,C0405808,4,6,5808,Multiple,MultipleOverlappingCalls,C0405808.wav,Contact,EB,2000-02-18_4_6,131,131_Contact,001_C0405808.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,21,Movement Space & Leadership,contact,Eudora,C0405818,4,6,5818,Multiple,TwoOverlappingCalls,C0405818.wav,Contact,EB,2000-02-18_4_6,131,131_Contact,002_C0405818.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,21,Movement Space & Leadership,contact,Edwina,C0405818,4,6,5822,Multiple,TwoOverlappingCalls,C0405818.wav,Contact,EB,2000-02-18_4_6,131,131_Contact,002_C0405818.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,20,Movement Space & Leadership,cadenced,Eudora,C0500219,5,1,218,Multiple,TwoOverlappingCalls,C0500219_C0500218_part1.wav,Cadenced,EB,2000-02-18_5_1,133,133_Cadenced,001_C0500219_C0500218_part1.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,20,Movement Space & Leadership,cadenced,Ella,C0500219,5,1,221,Multiple,TwoOverlappingCalls,C0500219_C0500218_part1.wav,Cadenced,EB,2000-02-18_5_1,133,133_Cadenced,001_C0500219_C0500218_part1.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,20,Movement Space & Leadership,cadenced,Eudora,C0500228,5,1,228,Multiple,TwoOverlappingCalls,C0500228_C0500218_part2.wav,Cadenced,EB,2000-02-18_5_1,133,133_Cadenced,002_C0500228_C0500218_part2.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,20,Movement Space & Leadership,cadenced,Ella,C0500228,5,1,232,Multiple,TwoOverlappingCalls,C0500228_C0500218_part2.wav,Cadenced,EB,2000-02-18_5_1,133,133_Cadenced,002_C0500228_C0500218_part2.wav
+Amboseli,Ol Tukai Orok,2/18/00,2000,20,Movement Space & Leadership,cadenced,Eudora,C0500248,5,1,248,Single,NA,C0500248.wav,Cadenced,EB,2000-02-18_5_1,133,133_Cadenced,003_C0500248.wav
+Amboseli,Longinye,4/16/00,2000,50,Affiliative,little greeting,Eliot,C0601210,6,1,1210,Multiple,TwoOverlappingCalls,C0601210.wav,Little greeting,EB,2000-04-16_6_1,136,136_Little greeting,001_C0601210.wav
+Amboseli,Longinye,4/16/00,2000,50,Affiliative,little greeting,Ella,C0601210,6,1,1215,Multiple,TwoOverlappingCalls,C0601210.wav,Little greeting,EB,2000-04-16_6_1,136,136_Little greeting,001_C0601210.wav
+Amboseli,Longinye,4/16/00,2000,50,Affiliative,Little greeting,Ella and Emma,C0601457,6,1,1457,Multiple,MultipleOverlappingCalls,C0601457.wav,Little greeting,EB,2000-04-16_6_1,136,136_Little greeting,002_C0601457.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Echo,C0602436,6,3,2436,Single,NA,C0602436_C0602727_part02.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,002_C0602436_C0602727_part02.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Edwina,C0602436,6,3,2436,Multiple,MultipleOverlappingCalls,C0602436_C0602727_part01.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,001_C0602436_C0602727_part01.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Edwina,C0602540,6,3,2540,Single,NA,C0602540_C0602727_part03.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,003_C0602540_C0602727_part03.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Unknown,C0602606,6,3,2606,Single,NA,C0602606_C0602727_part04.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,004_C0602606_C0602727_part04.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Edwina,C0602612,6,3,2612,Multiple,TwoOverlappingCalls,C0602612_C0602727_part05.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,005_C0602612_C0602727_part05.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Edwina,C0602612,6,3,2612,Multiple,TwoOverlappingCalls,C0602612_C0602727_part05.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,005_C0602612_C0602727_part05.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Echo,C0602625,6,3,2625,Multiple,MultipleOverlappingCalls,C0602625_C0602727_part06.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,006_C0602625_C0602727_part06.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Edwina,C0602635,6,3,2632,Multiple,TwoOverlappingCalls,C0602635_C0602727_part07.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,007_C0602635_C0602727_part07.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Echo,C0602635,6,3,2635,Multiple,TwoOverlappingCalls,C0602635_C0602727_part07.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,007_C0602635_C0602727_part07.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Echo,C0602650,6,3,2650,Single,NA,C0602650_C0602727_part09.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,008_C0602650_C0602727_part09.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Echo,C0602704,6,3,2704,Multiple,SingleAndOverlappingCalls,C0602704_C0602727_part10.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,009_C0602704_C0602727_part10.wav
+Amboseli,Longinye,4/16/00,2000,50,Movement Space & Leadership,cadenced,Unknown,C0602725,6,3,2725,Single,NA,C0602725_C0602727_part11.wav,Cadenced,EB,2000-04-16_6_3,137,137_Cadenced,010_C0602725_C0602727_part11.wav
+Amboseli,Longinye,4/17/00,2000,22,Movement Space & Leadership,let's go,Enid,C0703422,7,7,3422,Single,NA,C0703422.wav,Lets go,EB,2000-04-17_7_7,143,143_Lets go,C0703422.wav
+Amboseli,Longinye,4/17/00,2000,22,Movement Space & Leadership,let's go,Enid,C0703539,7,7,3539,Single,NA,C0703539.wav,Lets go,EB,2000-04-17_7_7,143,143_Lets go,C0703539.wav
+Amboseli,Longinye,4/17/00,2000,22,Movement Space & Leadership,let's go,Enid,C0703826,7,7,3826,Single,NA,C0703826.wav,Lets go,EB,2000-04-17_7_7,143,143_Lets go,C0703826.wav
+Amboseli,Longinye,4/19/00,2000,22,Affiliative,greeting,Eleanor,C0810637,8,7,10637,Multiple,MultipleOverlappingCalls,C0810637.wav,Greeting,EB,2000-04-19_8_7,147,147_Greeting,001_C0810637.wav
+Amboseli,Longinye,4/19/00,2000,22,Affiliative,greeting,Eleanor,C0810637,8,7,10657,Multiple,MultipleOverlappingCalls,C0810637.wav,Greeting,EB,2000-04-19_8_7,147,147_Greeting,001_C0810637.wav
+Amboseli,Longinye,4/19/00,2000,22,Affiliative,greeting,Unknown EB,C0810637,8,7,10700,Multiple,MultipleOverlappingCalls,C0810637.wav,Greeting,EB,2000-04-19_8_7,147,147_Greeting,001_C0810637.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,Erin,C0914414,9,11,14412,Multiple,MultipleOverlappingCalls,C0914412_part1.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,001_C0914412_part1.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,EB,C0914412,9,11,14412,Multiple,MultipleOverlappingCalls,C0914412_part2.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,002_C0914412_part2.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,EB,C0914412,9,11,14412,Multiple,TwoOverlappingCalls,C0914412_part4.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,C0914412_part4.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,Unknown,C0914412,9,11,14412,Single,NA,C0914412_part5.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,C0914412_part5.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,Unknown,C0914412,9,11,14412,Single,NA,C0914412_part6.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,C0914412_part6.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,Erin,C0914414,9,11,14420,Multiple,MultipleOverlappingCalls,C0914412_part1.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,001_C0914412_part1.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,greeting,EB,C0914506,9,11,14433,Multiple,TwoOverlappingCalls,C0914412_part3.wav,Greeting,EB,2000-04-20_9_11,151,151_Greeting,C0914412_part3.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0915619,9,12,15638,Multiple,MultipleOverlappingCalls,C0915619.wav,Cadenced,EB,2000-04-20_9_12,152,152_Cadenced,001_C0915619.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Enid,C0915649,9,12,15649,Single,NA,C0915649.wav,Cadenced,EB,2000-04-20_9_12,152,152_Cadenced,002_C0915649.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Enid,C0915714,9,12,15718,Multiple,TwoOverlappingCalls,C0915714.wav,Cadenced,EB,2000-04-20_9_12,152,152_Cadenced,003_C0915714.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0915936,9,14,15936,Single,NA,C0915936.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,001_C0915936.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0915959,9,14,15959,Single,NA,C0915959.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,002_C0915959.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Enid,C0920010,9,14,20010,Multiple,TwoOverlappingCalls,C0920010.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,003_C0920010.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0920010,9,14,20011,Multiple,TwoOverlappingCalls,C0920010.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,003_C0920010.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Enid,C0920020,9,14,20020,Multiple,TwoOverlappingCalls,C0920020.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,004_C0920020.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Enid,C0920034,9,14,20034,Multiple,TwoOverlappingCalls,C0920034.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,005_C0920034.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0920048,9,14,20048,Single,NA,C0920048.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,006_C0920048.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0920224,9,14,20224,Single,NA,C0920224.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,007_C0920224.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0920241,9,14,20240,Single,NA,C0920241.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,008_C0920241.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Eleanor,C0920309,9,14,20309,Single,NA,C0920309.wav,Cadenced,EB,2000-04-20_9_14,154,154_Cadenced,009_C0920309.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Ella,C1000645,10,3,645,Multiple,MultipleOverlappingCalls,C1000645.wav,Cadenced,EB,2000-04-20_10_3,155,155_Cadenced,001_C1000645.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Emma,C1001000,10,3,1000,Single,NA,C1001000.wav,Cadenced,EB,2000-04-20_10_3,155,155_Cadenced,002_C1001000.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Ella,C1001001,10,3,1001,Single,NA,C1001001.wav,Cadenced,EB,2000-04-20_10_3,155,155_Cadenced,003_C1001001.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,cadenced,Emma,C1001012,10,3,1012,Single,NA,C1001012.wav,Cadenced,EB,2000-04-20_10_3,155,155_Cadenced,004_C1001012.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Movement Space & Leadership,let's go,Eleanor,C1002357,10,6,2357,Multiple,MultipleOverlappingCalls,C1002357.wav,Lets go,EB,2000-04-20_10_6,156,156_Lets go,001_C1002357.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,little greeting,Enid,C1005445,10,7,5445,Multiple,MultipleOverlappingCalls,C1005445.wav,Little greeting,EB,2000-04-20_10_7,157,157_Little greeting,001_C1005445.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,little greeting,Ella,C1005445,10,7,5446,Multiple,MultipleOverlappingCalls,C1005445.wav,Little greeting,EB,2000-04-20_10_7,157,157_Little greeting,001_C1005445.wav
+Amboseli,Ol Tukai Orok,4/20/00,2000,22,Affiliative,little greeting,Enid,C1005445,10,7,5450,Multiple,MultipleOverlappingCalls,C1005445.wav,Little greeting,EB,2000-04-20_10_7,157,157_Little greeting,001_C1005445.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Movement Space & Leadership,contact,Elspeth,C1111041,11,12,11041,Multiple,MultipleOverlappingCalls,C1111041.wav,Contact,EB,2000-04-21_11_12,159,159_Contact,001_C1111041.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Movement Space & Leadership,contact,Eudora,C1111041,11,12,11043,Multiple,MultipleOverlappingCalls,C1111041.wav,Contact,EB,2000-04-21_11_12,159,159_Contact,001_C1111041.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Affiliative,little greeting,Elspeth,C1111152,11,12,11152,Multiple,TwoOverlappingCalls,C1111152.wav,Little greeting,EB,2000-04-21_11_12,159,159_Little greeting,001_C1111152.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Affiliative,little greeting,Eudora,C1111152,11,12,11153,Multiple,TwoOverlappingCalls,C1111152.wav,Little greeting,EB,2000-04-21_11_12,159,159_Little greeting,001_C1111152.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Affiliative,little greeting,Erin,C1111152,11,12,11159,Multiple,TwoOverlappingCalls,C1111152.wav,Little greeting,EB,2000-04-21_11_12,159,159_Little greeting,001_C1111152.wav
+Amboseli,Crossing Corner,4/21/00,2000,22,Affiliative,little greeting,Ella,C1111210,11,12,11210,Single,NA,C1111210.wav,Little greeting,EB,2000-04-21_11_12,159,159_Little greeting,002_C1111210.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1805424,18,11,5424,Single,NA,C1805424.wav,Contact,EB,2000-06-03_18_11,175,175_Contact,001_C1805424.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1805443,18,11,5443,Multiple,TwoOverlappingCalls,C1805443.wav,Contact,EB,2000-06-03_18_11,175,175_Contact,002_C1805443.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1805617,18,11,5617,Single,NA,C1805617.wav,Contact,EB,2000-06-03_18_11,175,175_Contact,003_C1805617.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810044,18,13,10044,Single,NA,C1810044_C1810043_part1.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,001_C1810044_C1810043_part1.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810205,18,13,10205,Multiple,MultipleOverlappingCalls,C1810205_C1810043_part2.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,002_C1810205_C1810043_part2.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Elettra,C1810205,18,13,10207,Multiple,MultipleOverlappingCalls,C1810205_C1810043_part2.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,002_C1810205_C1810043_part2.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810219,18,13,10219,Multiple,MultipleOverlappingCalls,C1810219_C1810043_part3.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,003_C1810219_C1810043_part3.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810234,18,13,10234,Single,NA,C1810234_C1810043_part4.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,004_C1810234_C1810043_part4.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810249,18,13,10249,Multiple,TwoOverlappingCalls,C1810249_C1810043_part5.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,005_C1810249_C1810043_part5.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810309,18,13,10309,Multiple,TwoOverlappingCalls,C1810309_C1810043_part6.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,006_C1810309_C1810043_part6.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810329,18,13,10329,Single,NA,C1810329_C1810043_part7.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,007_C1810329_C1810043_part7.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1810433,18,13,10433,Single,NA,C1810433_C1810043_part8.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,008_C1810433_C1810043_part8.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1811657,18,13,11656,Multiple,MultipleOverlappingCalls,C1811657.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,009_C1811657.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,5,Movement Space & Leadership,contact,Ella,C1811931,18,13,11931,Single,NA,C1811931.wav,Contact,EB,2000-06-03_18_13,176,176_Contact,010_C1811931.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Movement Space & Leadership,contact,Ella,C1812719,18,14,12719,Multiple,TwoOverlappingCalls,C1812719.wav,Contact,EB,2000-06-03_18_14,177,177_Contact,001_C1812719.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Movement Space & Leadership,contact,Ella,C1812735,18,14,12735,Single,NA,C1812735.wav,Contact,EB,2000-06-03_18_14,177,177_Contact,002_C1812735.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Movement Space & Leadership,contact,Ella,C1812828,18,14,12828,Single,NA,C1812828.wav,Contact,EB,2000-06-03_18_14,177,177_Contact,003_C1812828.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Eliot,C1900029,19,1,29,Multiple,TwoOverlappingCalls,C1900029.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,001_C1900029.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Enid,C1900029,19,1,33,Multiple,TwoOverlappingCalls,C1900029.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,001_C1900029.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Ella,C1900041,19,1,41,Multiple,MultipleOverlappingCalls,C1900041.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,002_C1900041.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Eliot,C1900041,19,1,44,Multiple,MultipleOverlappingCalls,C1900041.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,002_C1900041.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Eliot,C1900041,19,1,44,Multiple,MultipleOverlappingCalls,C1900041.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,002_C1900041.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Ella,C1900041,19,1,46,Multiple,MultipleOverlappingCalls,C1900041.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,002_C1900041.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Eliot,C1900053,19,1,53,Multiple,TwoOverlappingCalls,C1900053.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,003_C1900053.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,6,Affiliative,greeting,Unknown EB,C1900119,19,1,119,Multiple,MultipleOverlappingCalls,C1900119.wav,Greeting,EB,2000-06-03_19_1,178,178_Greeting,004_C1900119.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Eleanor,C1900406,19,2,406,Multiple,MultipleOverlappingCalls,C1900406.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,001_C1900406.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Ella,C1900406,19,2,409,Multiple,MultipleOverlappingCalls,C1900406.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,001_C1900406.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Ella,C1900432,19,2,432,Single,NA,C1900432.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,002_C1900432.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Ella,C1900510,19,2,510,Multiple,MultipleOverlappingCalls,C1900510.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,003_C1900510.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Echo,C1900510,19,2,512,Multiple,TwoOverlappingCalls,C1900510.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,003_C1900510.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,greeting,Echo,C1900529,19,2,529,Multiple,TwoOverlappingCalls,C1900529.wav,Greeting,EB,2000-06-03_19_2,179,179_Greeting,004_C1900529.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,little greeting,Ebony,C1902333,19,4,2305,Multiple,MultipleOverlappingCalls,C1902333.wav,Little greeting,EB,2000-06-03_19_4,180,180_Little greeting,001_C1902333.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,little greeting,Ebony,C1902333,19,4,2305,Multiple,MultipleOverlappingCalls,C1902333.wav,Little greeting,EB,2000-06-03_19_4,180,180_Little greeting,001_C1902333.wav
+Amboseli,Ol Tukai Orok,6/3/00,2000,24,Affiliative,little greeting,Elspeth,C1902333,19,4,2305,Multiple,MultipleOverlappingCalls,C1902333.wav,Little greeting,EB,2000-06-03_19_4,180,180_Little greeting,001_C1902333.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Affiliative,little greeting,Europa,C1905857,19,10,5857,Multiple,TwoOverlappingCalls,C1905857.wav,Little greeting,EB,2000-06-04_19_10,183,183_Little greeting,001_C1905857.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Calf Reassurance & Protection,coo,Emma,C1911731,19,12,11731,Multiple,MultipleOverlappingCalls,C1911731.wav,Coo,EB,2000-06-04_19_12,184,184_Coo,001_C1911731.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Calf Reassurance & Protection,coo,Emma,C1911742,19,12,11742,Single,NA,C1911742.wav,Coo,EB,2000-06-04_19_12,184,184_Coo,002_C1911742.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Calf Reassurance & Protection,coo,Emma,C1911800,19,12,11800,Single,NA,C1911800.wav,Coo,EB,2000-06-04_19_12,184,184_Coo,003_C1911800.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Calf Reassurance & Protection,coo,Emma,C1911814,19,12,11814,Single,NA,C1911814.wav,Coo,EB,2000-06-04_19_12,184,184_Coo,004_C1911814.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Calf Reassurance & Protection,coo,Emma,C1911827,19,12,11827,Single,NA,C1911827.wav,Coo,EB,2000-06-04_19_12,184,184_Coo,005_C1911827.wav
+Amboseli,Enkongo Narok,6/4/00,2000,24,Affiliative,greeting,all EBs,C1911658,19,12,11658,Multiple,MultipleOverlappingCalls,C1911658.wav,Greeting,EB,2000-06-04_19_12,184,184_Greeting,001_C1911658.wav
+Amboseli,Ol Tukai Orok,6/4/00,2000,24,Affiliative,little greeting,Ebony,C1912808,19,14,12808,Multiple,MultipleOverlappingCalls,C1912808.wav,Little greeting,EB,2000-06-04_19_14,185,185_Little greeting,001_C1912808.wav
+Amboseli,Ol Tukai Orok,6/4/00,2000,24,Affiliative,little greeting,Eliot,C1912808,19,14,12809,Multiple,MultipleOverlappingCalls,C1912808.wav,Little greeting,EB,2000-06-04_19_14,185,185_Little greeting,001_C1912808.wav
+Amboseli,Ol Tukai Orok,6/4/00,2000,24,Affiliative,little greeting,Ebony,C1912808,19,14,12810,Multiple,MultipleOverlappingCalls,C1912808.wav,Little greeting,EB,2000-06-04_19_14,185,185_Little greeting,001_C1912808.wav
+Amboseli,Ol Tukai Orok,6/4/00,2000,24,Movement Space & Leadership,contact,Eudora,C2000106,20,1,106,Multiple,MultipleOverlappingCalls,C2000106.wav,Contact,EB,2000-06-04_20_1,186,186_Contact,001_C2000106.wav
+Amboseli,Camp,8/13/00,2000,8,Movement Space & Leadership,cadenced,Emma,C2202108,22,5,2107,Multiple,MultipleOverlappingCalls,C2202108.wav,Cadenced,EB,2000-08-13_22_5,187,187_Cadenced,001_C2202108.wav
+Amboseli,Camp,8/13/00,2000,8,Movement Space & Leadership,cadenced,Edwina,C2202108,22,5,2108,Multiple,MultipleOverlappingCalls,C2202108.wav,Cadenced,EB,2000-08-13_22_5,187,187_Cadenced,001_C2202108.wav
+Amboseli,Camp,8/13/00,2000,8,Movement Space & Leadership,cadenced,Edwina,C2202210,22,5,2210,Multiple,TwoOverlappingCalls,C2202210.wav,Cadenced,EB,2000-08-13_22_5,187,187_Cadenced,002_C2202210.wav
+Amboseli,Jonah's Forest,8/13/00,2000,8,Affiliative,greeting,Erin,C2204547,22,14,4547,Multiple,MultipleOverlappingCalls,C2204547.wav,Greeting,EB,2000-08-13_22_14,189,189_Greeting,001_C2204547.wav
+Amboseli,Jonah's Forest,8/13/00,2000,8,Affiliative,greeting,EB,C2204615,22,14,4615,Multiple,MultipleOverlappingCalls,C2204615.wav,Greeting,EB,2000-08-13_22_14,189,189_Greeting,002_C2204615.wav
+Amboseli,Jonah's Forest,8/13/00,2000,8,Affiliative,greeting,EB,C2204615,22,14,4753,Multiple,MultipleOverlappingCalls,C2204615.wav,Greeting,EB,2000-08-13_22_14,189,189_Greeting,002_C2204615.wav
+Amboseli,Jonah's Forest,8/14/00,2000,22,Movement Space & Leadership,let's go,Echo,C2211516,22,21,11516,Multiple,TwoOverlappingCalls,C2211516.wav,Lets go,EB,2000-08-14_22_21,191,191_Lets go,001_C2211516.wav
+Amboseli,Jonah's Forest,8/14/00,2000,22,Movement Space & Leadership,let's go,Echo,C2211546,22,21,11546,Multiple,TwoOverlappingCalls,C2211546.wav,Lets go,EB,2000-08-14_22_21,191,191_Lets go,002_C2211546.wav
+Amboseli,Jonah's Forest,8/14/00,2000,22,Movement Space & Leadership,let's go,Enid,C2211546,22,21,11548,Multiple,TwoOverlappingCalls,C2211546.wav,Lets go,EB,2000-08-14_22_21,191,191_Lets go,002_C2211546.wav
+Amboseli,Jonah's Forest,8/14/00,2000,22,Movement Space & Leadership,let's go,Echo,C2212455,22,21,12455,Single,NA,C2212455.wav,Lets go,EB,2000-08-14_22_21,191,191_Lets go,003_C2212455.wav
+Amboseli,OT Fence,8/14/00,2000,22,Movement Space & Leadership,contact,Enid,C2302915,23,2,2915,Multiple,TwoOverlappingCalls,C2302915.wav,Contact,EB,2000-08-14_23_2,193,193_Contact,001_C2302915.wav
+Amboseli,OT Fence,8/14/00,2000,22,Movement Space & Leadership,contact,Erin,C2303515,23,2,3515,Single,NA,C2303515.wav,Contact,EB,2000-08-14_23_2,193,193_Contact,002_C2303515.wav
+Amboseli,OT Fence,8/14/00,2000,22,Affiliative,greeting,Echo,C2303900,23,2,3900,Multiple,MultipleOverlappingCalls,C2303900_C2303848_part1.wav,Greeting,EB,2000-08-14_23_2,193,193_Greeting,001_C2303900_C2303848_part1.wav
+Amboseli,OT Fence,8/14/00,2000,22,Affiliative,greeting,Enid,C2303923,23,2,3923,Multiple,MultipleOverlappingCalls,C2303923_C2303848_part2.wav,Greeting,EB,2000-08-14_23_2,193,193_Greeting,002_C2303923_C2303848_part2.wav
+Amboseli,OT Fence,8/14/00,2000,22,Affiliative,greeting,Erin,C2303940,23,2,3940,Single,NA,C2303940_C2303848_part3.wav,Greeting,EB,2000-08-14_23_2,193,193_Greeting,003_C2303940_C2303848_part3.wav
+Amboseli,OT Fence,8/14/00,2000,22,Affiliative,greeting,Erin,C2303950,23,2,3950,Multiple,MultipleOverlappingCalls,C2303950_C2303848_part4.wav,Greeting,EB,2000-08-14_23_2,193,193_Greeting,004_C2303950_C2303848_part4.wav
+Amboseli,OT Fence,8/14/00,2000,22,Affiliative,greeting,Unknown,C2304015,23,2,4015,Single,NA,C2304015_C2303848_part5.wav,Greeting,EB,2000-08-14_23_2,193,193_Greeting,005_C2304015_C2303848_part5.wav
+Amboseli,OT Fence,8/14/00,2000,22,Movement Space & Leadership,let's go,Echo,C2303017,23,2,3017,Multiple,TwoOverlappingCalls,C2303017.wav,Lets go,EB,2000-08-14_23_2,193,193_Lets go,001_C2303017.wav
+Amboseli,OT Fence,8/14/00,2000,22,Movement Space & Leadership,let's go,Echo,C2303034,23,2,3034,Single,NA,C2303034.wav,Lets go,EB,2000-08-14_23_2,193,193_Lets go,002_C2303034.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310208,23,6,10208,Multiple,TwoOverlappingCalls,C2310208.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,001_C2310208.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310233,23,6,10233,Single,NA,C2310233.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,002_C2310233.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310356,23,6,10356,Single,NA,C2310356.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,003_C2310356.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Eudora,C2310413,23,6,10413,Multiple,TwoOverlappingCalls,C2310413.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,004_C2310413.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310413,23,6,10419,Multiple,TwoOverlappingCalls,C2310413.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,004_C2310413.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310436,23,6,10436,Single,NA,C2310436.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,005_C2310436.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310452,23,6,10455,Single,NA,C2310452.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,006_C2310452.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310555,23,6,10555,Single,NA,C2310555.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,007_C2310555.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310656,23,6,10656,Single,NA,C2310656.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,008_C2310656.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310710,23,6,10710,Single,NA,C2310710.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,009_C2310710.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2310802,23,6,10802,Single,NA,C2310802.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,010_C2310802.wav
+Amboseli,Causeway Swamp,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2311028,23,6,11028,Single,NA,C2311028.wav,Lets go,EB,2000-08-15_23_6,194,194_Lets go,011_C2311028.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2312431,23,7,12431,Single,NA,C2312431.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,001_C2312431.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313057,23,7,13057,Single,NA,C2313057.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,002_C2313057.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313126,23,7,13126,Single,NA,C2313126.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,003_C2313126.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313142,23,7,13142,Single,NA,C2313142.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,004_C2313142.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313207,23,7,13207,Single,NA,C2313207.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,005_C2313207.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313231,23,7,13231,Single,NA,C2313231.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,006_C2313231.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313242,23,7,13242,Single,NA,C2313242.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,007_C2313242.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313530,23,7,13530,Single,NA,C2313530_part1.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,008_C2313530_part1.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313539,23,7,13539,Single,NA,C2313539_C2313530_part2.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,009_C2313539_C2313530_part2.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313551,23,7,13551,Single,NA,C2313551_C2313530_part3.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,010_C2313551_C2313530_part3.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313605,23,7,13605,Single,NA,C2313605_C2313530_part4.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,011_C2313605_C2313530_part4.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313619,23,7,13619,Single,NA,C2313619_C2313530_part5.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,012_C2313619_C2313530_part5.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2313646,23,7,13646,Single,NA,C2313646_C2313530_part6.wav,Lets go,EB,2000-08-15_23_7,195,195_Lets go,013_C2313646_C2313530_part6.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2400024,24,1,24,Single,NA,C2400024.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,001_C2400024.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2400045,24,1,45,Single,NA,C2400045.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,002_C2400045.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Ella,C2400103,24,1,103,Single,NA,C2400103.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,003_C2400103.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Ella,C2400123,24,1,123,Single,NA,C2400123.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,004_C2400123.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2400202,24,1,202,Single,NA,C2400202.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,005_C2400202.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2400241,24,1,241,Multiple,TwoOverlappingCalls,C2400241.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,006_C2400241.wav
+Amboseli,Jonah‚Äôs Enclosure,8/15/00,2000,25,"Movement, Space & Leadership",let‚Äôs go,Unknown,C2400301,24,1,301,Single,NA,C2400301.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,007_C2400301.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,25,Movement Space & Leadership,let's go,Enid,C2400320,24,1,320,Single,NA,C2400320.wav,Lets go,EB,2000-08-15_24_1,196,196_Lets go,008_C2400320.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,22,Affiliative,greeting,Edwina,C2403917,24,7,3917,Multiple,MultipleOverlappingCalls,C2403917_C2403915_part1.wav,Greeting,EB,2000-08-15_24_7,198,198_Greeting,001_C2403917_C2403915_part1.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,22,Affiliative,greeting,Echo,C2403930,24,7,3930,Multiple,MultipleOverlappingCalls,C2403930_C2403915_part2.wav,Greeting,EB,2000-08-15_24_7,198,198_Greeting,002_C2403930_C2403915_part2.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,22,Affiliative,greeting,Unknown EB,C2403955,24,7,3955,Multiple,MultipleOverlappingCalls,C2403955_C2403915_part3.wav,Greeting,EB,2000-08-15_24_7,198,198_Greeting,003_C2403955_C2403915_part3.wav
+Amboseli,Jonah's Enclosure,8/15/00,2000,22,Affiliative,greeting,Unknown EB,C2404036,24,7,4036,Multiple,MultipleOverlappingCalls,C2404036_C2403915_part4.wav,Greeting,EB,2000-08-15_24_7,198,198_Greeting,004_C2404036_C2403915_part4.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Echo,C2404247,24,8,4247,Multiple,TwoOverlappingCalls,C2404247_C2404246_part1.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,001_C2404247_C2404246_part1.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Edwina,C2404300,24,8,4300,Multiple,MultipleOverlappingCalls,C2404300_C2404246_part2.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,002_C2404300_C2404246_part2.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Unknown EB,C2404300,24,8,4307,Multiple,MultipleOverlappingCalls,C2404300_C2404246_part2.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,002_C2404300_C2404246_part2.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Erin,C2404321,24,8,4321,Multiple,MultipleOverlappingCalls,C2404321_C2404246_part3.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,003_C2404321_C2404246_part3.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Echo,C2404321,24,8,4328,Multiple,MultipleOverlappingCalls,C2404321_C2404246_part3.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,003_C2404321_C2404246_part3.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Echo,C2404321,24,8,4337,Multiple,MultipleOverlappingCalls,C2404321_C2404246_part3.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,003_C2404321_C2404246_part3.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Erin,C2404408,24,8,4408,Multiple,MultipleOverlappingCalls,C2404408_C2404246_part4.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,004_C2404408_C2404246_part4.wav
+Amboseli,Ol Tukai Orok Plains,8/15/00,2000,22,Movement Space & Leadership,cadenced,Unknown EB,C2404447,24,8,4408,Multiple,MultipleOverlappingCalls,C2404447_C2404246_part5.wav,Cadenced,EB,2000-08-15_24_8,199,199_Cadenced,005_C2404447_C2404246_part5.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,greeting,Erin & Ell & Eud & Ele & Emm,C2502054,25,4,2054,Multiple,MultipleOverlappingCalls,C2502054_part1.wav,Greeting,EB,2000-08-16_25_4,203,203_Greeting,001_C2502054_part1.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,greeting,Erin & Ell & Eud & Ele & Emm,C2502054,25,4,2054,Multiple,MultipleOverlappingCalls,C2502054_part2.wav,Greeting,EB,2000-08-16_25_4,203,203_Greeting,002_C2502054_part2.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,greeting,Erin & Ell & Eud & Ele & Emm,C2502054,25,4,2054,Multiple,TwoOverlappingCalls,C2502054_part3.wav,Greeting,EB,2000-08-16_25_4,203,203_Greeting,003_C2502054_part3.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,little greeting,Emma,C2502931,25,6,2950,Multiple,TwoOverlappingCalls,C2502931.wav,Little greeting,EB,2000-08-16_25_6,204,204_Little greeting,001_C2502931.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,little greeting,Eleanor,C2503541,25,6,3442,Multiple,TwoOverlappingCalls,C2503541.wav,Little greeting,EB,2000-08-16_25_6,204,204_Little greeting,002_C2503541.wav
+Amboseli,Serena Corner OTO,8/16/00,2000,25,Affiliative,little greeting,c95,C2503541,25,6,3541,Multiple,TwoOverlappingCalls,C2503541.wav,Little greeting,EB,2000-08-16_25_6,204,204_Little greeting,002_C2503541.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,4,Affiliative,little greeting,Eliot,C2601612,26,4,1612,Multiple,TwoOverlappingCalls,C2601612.wav,Little greeting,EB,2000-08-17_26_4,207,207_Little greeting,001_C2601612.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,4,Affiliative,little greeting,Eliot,C2601706,26,4,1706,Single,NA,C2601706.wav,Little greeting,EB,2000-08-17_26_4,207,207_Little greeting,002_C2601706.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,4,Affiliative,little greeting,Eliot,C2601713,26,4,1713,Single,NA,C2601713.wav,Little greeting,EB,2000-08-17_26_4,207,207_Little greeting,003_C2601713.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,10,Affiliative,little greeting,Echo,C2603623,26,4,3623,Multiple,TwoOverlappingCalls,C2603623.wav,Little greeting,EB,2000-08-17_26_4,207,207_Little greeting,004_C2603623.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,10,Affiliative,little greeting,Edwina,C2603623,26,4,3623,Multiple,TwoOverlappingCalls,C2603623.wav,Little greeting,EB,2000-08-17_26_4,207,207_Little greeting,004_C2603623.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,18,Affiliative,little greeting,Echeri & another,C2605425,26,9,5425,Multiple,TwoOverlappingCalls,C2605425.wav,Little greeting,EB,2000-08-17_26_9,209,209_Little greeting,001_C2605425.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,18,Affiliative,little greeting,Echo,C2605541,26,9,5541,Multiple,TwoOverlappingCalls,C2605541.wav,Little greeting,EB,2000-08-17_26_9,209,209_Little greeting,002_C2605541.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,18,Affiliative,little greeting,Ebony,C2610045,26,9,10045,Multiple,SeriesOfSingleCalls,C2610045.wav,Little greeting,EB,2000-08-17_26_9,209,209_Little greeting,003_C2610045.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,19,Affiliative,greeting,Emma & Ella & Echo,C2610418,26,10,10418,Multiple,MultipleOverlappingCalls,C2610418.wav,Greeting,EB,2000-08-17_26_10,210,210_Greeting,001_C2610418.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,19,Affiliative,greeting,Emma,C2610436,26,10,10436,Single,NA,C2610436.wav,Greeting,EB,2000-08-17_26_10,210,210_Greeting,002_C2610436.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,19,Affiliative,greeting,Emma,C2610457,26,10,10457,Multiple,MultipleOverlappingCalls,C2610457.wav,Greeting,EB,2000-08-17_26_10,210,210_Greeting,003_C2610457.wav
+Amboseli,Ol Tukai Orok,8/17/00,2000,19,Affiliative,greeting,Emma,C2610545,26,10,10545,Multiple,TwoOverlappingCalls,C2610545.wav,Greeting,EB,2000-08-17_26_10,210,210_Greeting,004_C2610545.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2701253,27,4,1253,Single,NA,C2701253.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,001_C2701253.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2701335,27,4,1335,Single,NA,C2701335.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,002_C2701335.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2701450,27,4,1450,Single,NA,C2701450.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,003_C2701450.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2702207,27,4,2207,Single,NA,C2702207.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,004_C2702207.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2702458,27,4,2459,Single,NA,C2702458.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,005_C2702458.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Enid,C2702459,27,4,2459,Single,NA,C2702459.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,006_C2702459.wav
+Amboseli,Ol Tukai Orok Plains,8/18/00,2000,26,Movement Space & Leadership,contact,Echo,C2703043,27,4,3043,Multiple,MultipleOverlappingCalls,C2703043.wav,Contact,EB,2000-08-18_27_4,221,221_Contact,007_C2703043.wav
+Amboseli,Ol Tukai Orok Plains,8/19/00,2000,11,Affiliative,greeting,Echo,C2710844,27,9,10844,Single,NA,C2710844.wav,Greeting,EB,2000-08-19_27_9,222,222_Greeting,001_C2710844.wav
+Amboseli,Ol Tukai Orok Plains,8/19/00,2000,11,Affiliative,greeting,Echo,C2710856,27,9,10856,Single,NA,C2710856.wav,Greeting,EB,2000-08-19_27_9,222,222_Greeting,002_C2710856.wav
+Amboseli,Ol Tukai Orok Plains,8/19/00,2000,11,Affiliative,greeting,Echo,C2710911,27,9,10911,Single,NA,C2710911.wav,Greeting,EB,2000-08-19_27_9,222,222_Greeting,003_C2710911.wav
+Amboseli,South of Camp,8/19/00,2000,11,Movement Space & Leadership,contact,Erin,C2712941,27,11,12941,Multiple,MultipleOverlappingCalls,C2712941.wav,Contact,EB,2000-08-19_27_11,223,223_Contact,001_C2712941.wav
+Amboseli,South of Camp,8/19/00,2000,11,Movement Space & Leadership,contact,Erin,C2712941,27,11,12941,Multiple,MultipleOverlappingCalls,C2712941.wav,Contact,EB,2000-08-19_27_11,223,223_Contact,001_C2712941.wav
+Amboseli,South of Camp,8/19/00,2000,11,Movement Space & Leadership,contact,Unknown EB,C2712941,27,11,12941,Multiple,MultipleOverlappingCalls,C2712941.wav,Contact,EB,2000-08-19_27_11,223,223_Contact,001_C2712941.wav
+Amboseli,South of Camp,8/19/00,2000,14,Movement Space & Leadership,contact,Enid/Eliot,C2802642,28,1,2642,Multiple,TwoOverlappingCalls,C2802642.wav,Contact,EB,2000-08-19_28_1,224,224_Contact,001_C2802642.wav
+Amboseli,South of Camp,8/19/00,2000,14,Affiliative,greeting,Echo,C2800609,28,1,609,Multiple,MultipleOverlappingCalls,C2800609.wav,Greeting,EB,2000-08-19_28_1,224,224_Greeting,001_C2800609.wav
+Amboseli,South of Camp,8/19/00,2000,20,Affiliative,greeting,Emerald,C2811234,28,5,11234,Multiple,TwoOverlappingCalls,C2811234_part1.wav,Greeting,EB,2000-08-19_28_5,225,225_Greeting,001_C2811234_part1.wav
+Amboseli,South of Camp,8/19/00,2000,20,Affiliative,greeting,Emerald,C2811234,28,5,11234,Multiple,MultipleOverlappingCalls,C2811234_part2.wav,Greeting,EB,2000-08-19_28_5,225,225_Greeting,002_C2811234_part2.wav
+Amboseli,Ol Tukai Orok,10/15/00,2000,23,Affiliative,greeting,Eliot,C2912856,29,15,12856,Multiple,TwoOverlappingCalls,C2912856_C2912855_part1.wav,Greeting,EB,2000-10-15_29_15,226,226_Greeting,001_C2912856_C2912855_part1.wav
+Amboseli,Ol Tukai Orok,10/15/00,2000,23,Affiliative,greeting,Enid,C2912856,29,15,12856,Multiple,TwoOverlappingCalls,C2912856_C2912855_part1.wav,Greeting,EB,2000-10-15_29_15,226,226_Greeting,001_C2912856_C2912855_part1.wav
+Amboseli,Ol Tukai Orok,10/15/00,2000,23,Affiliative,greeting,Elspeth,C2912904,29,15,12904,Multiple,MultipleOverlappingCalls,C2912904_C2912855_part2.wav,Greeting,EB,2000-10-15_29_15,226,226_Greeting,002_C2912904_C2912855_part2.wav
+Amboseli,Ol Tukai Orok,10/15/00,2000,23,Affiliative,greeting,Erin,C2912913,29,15,12913,Multiple,TwoOverlappingCalls,C2912913_C2912855_part3.wav,Greeting,EB,2000-10-15_29_15,226,226_Greeting,003_C2912913_C2912855_part3.wav
+Amboseli,Ol Tukai Orok,10/15/00,2000,23,Affiliative,greeting,Eliot,C2913027,29,15,13027,Multiple,TwoOverlappingCalls,C2913027.wav,Greeting,EB,2000-10-15_29_15,226,226_Greeting,004_C2913027.wav
+Amboseli,Ol Tukai Orok,10/16/00,2000,50,Affiliative,greeting,Eudora,C3101412,31,2,1412,Multiple,TwoOverlappingCalls,C3101412_C3101411_part1.wav,Greeting,EB,2000-10-16_31_2,229,229_Greeting,001_C3101412_C3101411_part1.wav
+Amboseli,Ol Tukai Orok,10/16/00,2000,50,Affiliative,greeting,Elspeth,C3101412,31,2,1412,Multiple,TwoOverlappingCalls,C3101412_C3101411_part1.wav,Greeting,EB,2000-10-16_31_2,229,229_Greeting,001_C3101412_C3101411_part1.wav
+Amboseli,Ol Tukai Orok,10/16/00,2000,50,Affiliative,greeting,Elspeth & Eudora,C3101430,31,2,1430,Multiple,TwoOverlappingCalls,C3101430_C3101411_part2.wav,Greeting,EB,2000-10-16_31_2,229,229_Greeting,002_C3101430_C3101411_part2.wav
+Amboseli,Ol Tukai Orok,10/16/00,2000,50,Affiliative,greeting,Elspeth,C3101506,31,2,1506,Multiple,TwoOverlappingCalls,C3101506_C3101411_part3.wav,Greeting,EB,2000-10-16_31_2,229,229_Greeting,003_C3101506_C3101411_part3.wav
+Amboseli,South of Camp,10/16/00,2000,22,Movement Space & Leadership,contact,Eudora,C3112733,31,13,12733,Multiple,MultipleOverlappingCalls,C3112733.wav,Contact,EB,2000-10-16_31_13,231,231_Contact,001_C3112733.wav
+Amboseli,South of Camp,10/16/00,2000,22,Affiliative,little greeting,Elspeth,C3203731,32,4,3731,Single,NA,C3203731.wav,Little greeting,EB,2000-10-16_32_4,232,232_Little greeting,001_C3203731.wav
+Amboseli,South of Camp,10/16/00,2000,22,Affiliative,little greeting,Elspeth,C3205438,32,4,5438,Multiple,TwoOverlappingCalls,C3205438.wav,Little greeting,EB,2000-10-16_32_4,232,232_Little greeting,002_C3205438.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,2,Calf Reassurance & Protection,coo,Eudora,C3304810,33,14,4810,Multiple,TwoOverlappingCalls,C3304810.wav,Coo,EB,2000-10-17_33_14,237,237_Coo,001_C3304810.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,2,Calf Reassurance & Protection,coo,Elspeth,C3304810,33,14,4812,Multiple,TwoOverlappingCalls,C3304810.wav,Coo,EB,2000-10-17_33_14,237,237_Coo,001_C3304810.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,2,Calf Reassurance & Protection,coo,Eudora,C3304820,33,14,4820,Single,NA,C3304820.wav,Coo,EB,2000-10-17_33_14,237,237_Coo,002_C3304820.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,2,Calf Reassurance & Protection,coo,Eudora,C3304830,33,14,4830,Multiple,TwoOverlappingCalls,C3304830.wav,Coo,EB,2000-10-17_33_14,237,237_Coo,003_C3304830.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311353,33,19,11353,Single,NA,C3311353.wav,Coo,EB,2000-10-17_33_19,240,240_Coo,001_C3311353.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311515,33,19,11515,Single,NA,C3311515.wav,Coo,EB,2000-10-17_33_19,240,240_Coo,002_C3311515.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311529,33,19,11529,Single,NA,C3311529.wav,Coo,EB,2000-10-17_33_19,240,240_Coo,003_C3311529.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311544,33,20,11544,Single,NA,C3311544.wav,Coo,EB,2000-10-17_33_20,241,241_Coo,001_C3311544.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311616,33,20,11616,Single,NA,C3311616.wav,Coo,EB,2000-10-17_33_20,241,241_Coo,002_C3311616.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311654,33,20,11654,Single,NA,C3311654.wav,Coo,EB,2000-10-17_33_20,241,241_Coo,003_C3311654.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,3,Calf Reassurance & Protection,coo,Eudora,C3311726,33,20,11726,Single,NA,C3311726.wav,Coo,EB,2000-10-17_33_20,241,241_Coo,004_C3311726.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eliot,C3403413,34,4,3413,Multiple,MultipleOverlappingCalls,C3403413.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,001_C3403413.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora & Elspeth,C3403413,34,4,3415,Multiple,MultipleOverlappingCalls,C3403413.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,001_C3403413.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora,C3403429,34,4,3429,Multiple,MultipleOverlappingCalls,C3403429.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,002_C3403429.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Elsbeth,C3403429,34,4,3435,Multiple,MultipleOverlappingCalls,C3403429.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,002_C3403429.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora,C3403457,34,4,3457,Single,NA,C3403457.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,003_C3403457.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora,C3403527,34,4,3527,Multiple,TwoOverlappingCalls,C3403527.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,004_C3403527.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Elspeth,C3403538,34,4,3538,Single,NA,C3403538.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,005_C3403538.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora,C3403800,34,4,3800,Multiple,TwoOverlappingCalls,C3403800.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,006_C3403800.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eliot,C3403800,34,4,3800,Multiple,TwoOverlappingCalls,C3403800.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,006_C3403800.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eliot,C3403808,34,4,3812,Multiple,TwoOverlappingCalls,C3403808.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,007_C3403808.wav
+Amboseli,Ol Tukai Orok,10/17/00,2000,22,Affiliative,greeting,Eudora,C3403808,34,4,3814,Multiple,TwoOverlappingCalls,C3403808.wav,Greeting,EB,2000-10-17_34_4,246,246_Greeting,007_C3403808.wav
+Amboseli,South of Camp,10/17/00,2000,22,Calf Reassurance & Protection,coo,Eudora,C3404342,34,5,4342,Single,NA,C3404342_part1.wav,Coo,EB,2000-10-17_34_5,247,247_Coo,001_C3404342_part1.wav
+Amboseli,South of Camp,10/17/00,2000,22,Calf Reassurance & Protection,coo,Eudora,C3404342,34,5,4342,Single,NA,C3404342_part2.wav,Coo,EB,2000-10-17_34_5,247,247_Coo,002_C3404342_part2.wav
+Amboseli,South of Camp,10/17/00,2000,22,Calf Reassurance & Protection,coo,Eudora,C3404342,34,5,4342,Single,NA,C3404342_part3.wav,Coo,EB,2000-10-17_34_5,247,247_Coo,003_C3404342_part3.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Eudora,C3410020,34,5,10020,Multiple,TwoOverlappingCalls,C3410020.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,001_C3410020.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Eudora,C3410031,34,5,10031,Multiple,TwoOverlappingCalls,C3410031.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,002_C3410031.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Elspeth,C3410031,34,5,10031,Multiple,TwoOverlappingCalls,C3410031.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,002_C3410031.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Eudora,C3410040,34,5,10040,Single,NA,C3410040.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,003_C3410040.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Erin & Els & Ebo & Eud,C3410106,34,5,10106,Multiple,MultipleOverlappingCalls,C3410106.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,004_C3410106.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Erin,C3410211,34,5,10211,Multiple,MultipleOverlappingCalls,C3410211.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,005_C3410211.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Erin,C3410225,34,5,10225,Single,NA,C3410225.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,006_C3410225.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Erin,C3410250,34,5,10250,Multiple,TwoOverlappingCalls,C3410250.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,007_C3410250.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Erin,C3410305,34,5,10305,Multiple,TwoOverlappingCalls,C3410305.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,008_C3410305.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,greeting,Ebony,C3410323,34,5,10329,Multiple,TwoOverlappingCalls,C3410323.wav,Greeting,EB,2000-10-17_34_5,247,247_Greeting,009_C3410323.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,little greeting,Eudora,C3404334,34,5,4334,Multiple,TwoOverlappingCalls,C3404334.wav,Little greeting,EB,2000-10-17_34_5,247,247_Little greeting,001_C3404334.wav
+Amboseli,South of Camp,10/17/00,2000,22,Affiliative,little greeting,Ebony,C3404334,34,5,4334,Multiple,TwoOverlappingCalls,C3404334.wav,Little greeting,EB,2000-10-17_34_5,247,247_Little greeting,001_C3404334.wav
+Amboseli,Emali Bridge,10/18/00,2000,22,Movement Space & Leadership,contact,Eudora,C3412227,34,9,12227,Multiple,TwoOverlappingCalls,C3412227.wav,Contact,EB,2000-10-18_34_9,248,248_Contact,001_C3412227.wav
+Amboseli,Emali Bridge,10/18/00,2000,22,Movement Space & Leadership,contact,Eudora,C3412232,34,9,12233,Multiple,MultipleOverlappingCalls,C3412232.wav,Contact,EB,2000-10-18_34_9,248,248_Contact,002_C3412232.wav
+Amboseli,Emali Bridge,10/18/00,2000,22,Movement Space & Leadership,contact,Eudora,C3412303,34,9,12303,Multiple,TwoOverlappingCalls,C3412303.wav,Contact,EB,2000-10-18_34_9,248,248_Contact,003_C3412303.wav
+Amboseli,"Plains, near fence",10/19/00,2000,22,Movement Space & Leadership,let's go,Echo,C3500519,35,2,519,Single,NA,C3500519.wav,Lets go,EB,2000-10-19_35_2,250,250_Lets go,001_C3500519.wav
+Amboseli,"Plains, near fence",10/19/00,2000,22,Movement Space & Leadership,let's go,Erin,C3500542,35,2,542,Multiple,TwoOverlappingCalls,C3500542.wav,Lets go,EB,2000-10-19_35_2,250,250_Lets go,002_C3500542.wav
+Amboseli,"Plains, near fence",10/19/00,2000,22,Movement Space & Leadership,let's go,Echo,C3500542,35,2,547,Multiple,TwoOverlappingCalls,C3500542.wav,Lets go,EB,2000-10-19_35_2,250,250_Lets go,002_C3500542.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Emma,E0101216,1,2,1215,Multiple,MultipleOverlappingCalls,E0101216.wav,Little greeting,EB,2002-03-30_1_2,253,253_Little greeting,001_E0101216.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Ella,E0101216,1,2,1217,Multiple,MultipleOverlappingCalls,E0101216.wav,Little greeting,EB,2002-03-30_1_2,253,253_Little greeting,001_E0101216.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Eliot,E0105132,1,6,5139,Single,NA,E0105132.wav,Little greeting,EB,2002-03-30_1_6,254,254_Little greeting,001_E0105132.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Eliot,E0105400,1,6,5400,Single,NA,E0105400.wav,Little greeting,EB,2002-03-30_1_6,254,254_Little greeting,002_E0105400.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Erin,E0105554,1,6,5554,Multiple,TwoOverlappingCalls,E0105554.wav,Little greeting,EB,2002-03-30_1_6,254,254_Little greeting,003_E0105554.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Edwina,E0105554,1,6,5556,Multiple,TwoOverlappingCalls,E0105554.wav,Little greeting,EB,2002-03-30_1_6,254,254_Little greeting,003_E0105554.wav
+Amboseli,Kitirua,3/30/02,2002,150,Affiliative,little greeting,Edwina,E0105615,1,6,5615,Single,NA,E0105615.wav,Little greeting,EB,2002-03-30_1_6,254,254_Little greeting,004_E0105615.wav
+Amboseli,Kitirua,4/1/02,2002,50,Affiliative,little greeting,Eudora,E0302805,3,4,2801,Multiple,MultipleOverlappingCalls,E0302805.wav,Little greeting,EB,2002-04-01_3_4,259,259_Little greeting,001_E0302805.wav
+Amboseli,Kitirua,4/1/02,2002,50,Affiliative,little greeting,Ella,E0302805,3,4,2803,Multiple,MultipleOverlappingCalls,E0302805.wav,Little greeting,EB,2002-04-01_3_4,259,259_Little greeting,001_E0302805.wav
+Amboseli,Kitirua,4/1/02,2002,50,Affiliative,little greeting,Echo,E0302805,3,4,2805,Multiple,MultipleOverlappingCalls,E0302805.wav,Little greeting,EB,2002-04-01_3_4,259,259_Little greeting,001_E0302805.wav
+Amboseli,R16,7/29/87,1987,40,Calf Reassurance & Protection,coo,Eudora,V4000028,40,1,30,Multiple,TwoOverlappingCalls,V4000028.wav,Coo,EB,1987-07-29_40_1,26,26_Coo,001_V4000028.wav
+Amboseli,R16,7/29/87,1987,40,Calf Reassurance & Protection,coo,Eudora,V4000038,40,1,40,Multiple,TwoOverlappingCalls,V4000038.wav,Coo,EB,1987-07-29_40_1,26,26_Coo,002_V4000038.wav
+Amboseli,Empaash/OTO,4/8/02,2002,29,Movement Space & Leadership,let's go,Ella,E0501300,5,5,1300,Single,NA,E0501300.wav,Lets go,EB,2002-04-08_5_5,261,261_Lets go,001_E0501300.wav
+Amboseli,Empaash/OTO,4/8/02,2002,29,Movement Space & Leadership,let's go,Ella,E0501334,5,5,1334,Multiple,TwoOverlappingCalls,E0501334.wav,Lets go,EB,2002-04-08_5_5,261,261_Lets go,002_E0501334.wav
+Amboseli,Empaash/OTO,4/8/02,2002,29,Movement Space & Leadership,let's go,Ella,E0501419,5,5,1419,Single,NA,E0501419.wav,Lets go,EB,2002-04-08_5_5,261,261_Lets go,003_E0501419.wav
+Amboseli,Sinet,5/14/03,2003,26,Movement Space & Leadership,contact,Ella,F0210714,2,NA,10714,Multiple,MultipleOverlappingCalls,F0210714.wav,Contact,EB,2003-05-14_2_NA,262,262_Contact,001_F0210714.wav
+Amboseli,Sinet,5/14/03,2003,26,Movement Space & Leadership,contact,Ella,F0210732,2,NA,10732,Single,NA,F0210732.wav,Contact,EB,2003-05-14_2_NA,262,262_Contact,002_F0210732.wav
+Amboseli,Sinet,5/14/03,2003,26,Movement Space & Leadership,contact,Unknown,F0210755,2,NA,10755,Single,NA,F0210755.wav,Contact,EB,2003-05-14_2_NA,262,262_Contact,003_F0210755.wav
+Amboseli,Sinet,5/14/03,2003,26,Movement Space & Leadership,contact,Ella,F0210920,2,NA,10920,Multiple,MultipleOverlappingCalls,F0210920.wav,Contact,EB,2003-05-14_2_NA,262,262_Contact,004_F0210920.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Elletra,F0304820,3,NA,4820,Multiple,MultipleOverlappingCalls,F0304820.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,001_F0304820.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Eliot,F0304820,3,NA,4836,Multiple,MultipleOverlappingCalls,F0304820.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,001_F0304820.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Elletra,F0304820,3,NA,4836,Multiple,MultipleOverlappingCalls,F0304820.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,001_F0304820.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Eliot,F0304905,3,NA,4905,Multiple,TwoOverlappingCalls,F0304905.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,002_F0304905.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Ella,F0304941,3,NA,4941,Multiple,MultipleOverlappingCalls,F0304941.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,003_F0304941.wav
+Amboseli,Lenkolong,5/17/03,2003,26,Movement Space & Leadership,cadenced,Ella,F0304947,3,NA,4947,Multiple,MultipleOverlappingCalls,F0304947.wav,Cadenced,EB,2003-05-17_3_NA,263,263_Cadenced,004_F0304947.wav
+Amboseli,Serena,10/19/03,2003,16,Affiliative,little greeting,Emma & Ella,F0702206,7,NA,2206,Multiple,MultipleOverlappingCalls,F0702206.wav,Little greeting,EB,2003-10-19_7_NA,264,264_Little greeting,001_F0702206.wav
+Amboseli,Ol Tukai Orok,10/22/03,2003,5,Movement Space & Leadership,contact,Elettra,F0901834,9,NA,1834,Multiple,MultipleOverlappingCalls,F0901834.wav,Contact,EB,2003-10-22_9_NA,266,266_Contact,001_F0901834.wav
+Amboseli,Place of Bulls,10/23/03,2003,21,Affiliative,little greeting,Europa,F1002803,10,NA,2800,Multiple,MultipleOverlappingCalls,F1002803.wav,Little greeting,EB,2003-10-23_10_NA,268,268_Little greeting,001_F1002803.wav
+Amboseli,Crossing Corner,10/24/03,2003,11,Affiliative,little greeting,Ebony,F1100639,11,NA,639,Multiple,MultipleOverlappingCalls,F1100639.wav,Little greeting,EB,2003-10-24_11_NA,269,269_Little greeting,001_F1100639.wav
+Amboseli,P19,8/3/87,1987,12,Affiliative,little greeting,Emo,V4301206,43,1,1206,Multiple,TwoOverlappingCalls,V4301206.wav,Little greeting,EB,1987-08-03_43_1,27,27_Little greeting,001_V4301206.wav
+Amboseli,P19,8/3/87,1987,12,Affiliative,little greeting,Emily,V4301206,43,1,1208,Multiple,TwoOverlappingCalls,V4301206.wav,Little greeting,EB,1987-08-03_43_1,27,27_Little greeting,001_V4301206.wav
+Amboseli,P19,8/3/87,1987,12,Affiliative,little greeting,Emo,V4301212,43,1,1212,Multiple,MultipleOverlappingCalls,V4301212.wav,Little greeting,EB,1987-08-03_43_1,27,27_Little greeting,002_V4301212.wav
+Amboseli,P19,8/3/87,1987,12,Affiliative,little greeting,Emily,V4301212,43,1,1215,Multiple,MultipleOverlappingCalls,V4301212.wav,Little greeting,EB,1987-08-03_43_1,27,27_Little greeting,002_V4301212.wav
+Amboseli,Ol Tukai Orok,3/29/05,2005,17,Movement Space & Leadership,contact (calling for help?),Eliot,050329-14-0619,2,14,614,Multiple,MultipleOverlappingCalls,050329-14-0619.wav,Contact,EB,2005-03-29_2_14,274,274_Contact,001_050329-14-0619.wav
+Amboseli,Ol Tukai Orok,3/29/05,2005,17,Movement Space & Leadership,contact (answers),Erica,050329-14-0619,2,14,617,Multiple,MultipleOverlappingCalls,050329-14-0619.wav,Contact,EB,2005-03-29_2_14,274,274_Contact,001_050329-14-0619.wav
+Amboseli,Ol Tukai Orok,3/29/05,2005,17,Affiliative,greeting,Elettra,050329-14-0739,2,14,734,Multiple,MultipleOverlappingCalls,050329-14-0739.wav,Greeting,EB,2005-03-29_2_14,274,274_Greeting,001_050329-14-0739.wav
+Amboseli,Ol Tukai Orok,3/29/05,2005,17,Affiliative,greeting,Eliot,050329-14-0739,2,14,739,Multiple,MultipleOverlappingCalls,050329-14-0739.wav,Greeting,EB,2005-03-29_2_14,274,274_Greeting,001_050329-14-0739.wav
+Amboseli,Ol Tukai Orok,3/29/05,2005,17,Affiliative,greeting,Eliot,050329-14-0845,2,14,845,Multiple,TwoOverlappingCalls,050329-14-0845.wav,Greeting,EB,2005-03-29_2_14,274,274_Greeting,002_050329-14-0845.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact call,Emily,W0400342,4,1,339,Single,Multiple analyse Single,W0400342.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,001_W0400342.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact answer,Emily,W0400342,4,1,342,Single,Multiple analyse Single,W0400342.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,001_W0400342.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact acknowledgment,Emily,W0400342,4,1,346,Single,Multiple analyse Single,W0400342.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,001_W0400342.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact acknowledgment,Emily,W0400358,4,1,358,Single,NA,W0400358.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,002_W0400358.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact call,Emily,W0400512,4,1,512,Single,NA,W0400512.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,003_W0400512.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact answer,Emily,W0401015,4,1,1015,Multiple,TwoOverlappingCalls,W0401015.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,004_W0401015.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact call,Echo/Eudora,W0401015,4,1,1015,Multiple,TwoOverlappingCalls,W0401015.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,004_W0401015.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact call,Emily,W0401328,4,1,1228,Multiple,TwoOverlappingCalls,W0401328.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,005_W0401328.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact call,Emily,W0401635,4,1,1635,Single,Multiple analyse Single,W0401635.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,006_W0401635.wav
+Amboseli,P17,8/5/89,1989,5,Movement Space & Leadership,contact answer,Emily,W0401635,4,1,1638,Single,Multiple analyse Single,W0401635.wav,Contact,EB,1989-08-05_4_1,28,28_Contact,006_W0401635.wav
+Amboseli,P17,8/5/89,1989,18,Affiliative,greeting,adult and calf,W0401920,4,2,1920,Multiple,TwoOverlappingCalls,W0401920.wav,Greeting,EB,1989-08-05_4_2,29,29_Greeting,001_W0401920.wav
+Amboseli,P17,8/5/89,1989,18,Affiliative,greeting,adult EB,W0401940,4,2,1940,Multiple,TwoOverlappingCalls,W0401940.wav,Greeting,EB,1989-08-05_4_2,29,29_Greeting,002_W0401940.wav
+Amboseli,P17,8/5/89,1989,18,Affiliative,greeting,adult EB,W0402004,4,2,2004,Multiple,MultipleOverlappingCalls,W0402004.wav,Greeting,EB,1989-08-05_4_2,29,29_Greeting,003_W0402004.wav
+Amboseli,P17,8/5/89,1989,18,Affiliative,greeting,adult EB,W0402025,4,2,2025,Multiple,TwoOverlappingCalls,W0402025.wav,Greeting,EB,1989-08-05_4_2,29,29_Greeting,004_W0402025.wav
+Amboseli,P17,8/5/89,1989,18,Affiliative,greeting,adult EB,W0402110,4,2,2110,Multiple,MultipleOverlappingCalls,W0402110.wav,Greeting,EB,1989-08-05_4_2,29,29_Greeting,005_W0402110.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emily,W0501345,5,3,1333,Multiple,MultipleOverlappingCalls,W0501345.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,001_W0501345.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Ella,W0501345,5,3,1338,Multiple,MultipleOverlappingCalls,W0501345.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,001_W0501345.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emma,W0501345,5,3,1343,Multiple,MultipleOverlappingCalls,W0501345.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,001_W0501345.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emily,W0501345,5,3,1346,Multiple,MultipleOverlappingCalls,W0501345.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,001_W0501345.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Ella,W0501345,5,3,1352,Multiple,MultipleOverlappingCalls,W0501345.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,001_W0501345.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Ella,W0501418,5,3,1418,Multiple,MultipleOverlappingCalls,W0501418.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,002_W0501418.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emily &  Emma,W0501430,5,3,1430,Multiple,MultipleOverlappingCalls,W0501430.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,003_W0501430.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Ella,W0501448,5,3,1448,Single,NA,W0501448.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,004_W0501448.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emily,W0501559,5,3,1559,Single,NA,W0501559.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,005_W0501559.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,Cadenced,Emily,W0501615,5,3,1615,Single,NA,W0501615.wav,Cadenced,EB,1989-08-05_5_3,30,30_Cadenced,006_W0501615.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,cadenced/greeting,Eudora,W0600600,6,1,602,Multiple,TwoOverlappingCalls,W0600600.wav,Cadenced,EB,1989-08-05_6_1,31,31_Cadenced,001_W0600600.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,cadenced,Emily,W0600612,6,1,608,Multiple,TwoOverlappingCalls,W0600612.wav,Cadenced,EB,1989-08-05_6_1,31,31_Cadenced,002_W0600612.wav
+Amboseli,P17,8/5/89,1989,18,Movement Space & Leadership,cadenced,Eudora,W0600612,6,1,608,Multiple,TwoOverlappingCalls,W0600612.wav,Cadenced,EB,1989-08-05_6_1,31,31_Cadenced,002_W0600612.wav
+Amboseli,Q17,8/7/89,1989,20,Movement Space & Leadership,let‚Äôs go/cadenced,Ella,W0800332,8,1,332,Multiple,TwoOverlappingCalls,W0800332.wav,Cadenced,EB,1989-08-07_8_1,32,32_Cadenced,001_W0800332.wav
+Amboseli,Q17,8/7/89,1989,20,Movement Space & Leadership,let‚Äôs go/cadenced,Ella,W0800354,8,1,354,Multiple,TwoOverlappingCalls,W0800354.wav,Cadenced,EB,1989-08-07_8_1,32,32_Cadenced,002_W0800354.wav
+Amboseli,Ol Tukai Orok,2/20/99,1999,25,Affiliative,greeting,Unknown EB,B0203720,2,5,3720,Multiple,MultipleOverlappingCalls,B0203720.wav,Greeting,EB,1999-02-20_2_5,37,37_Greeting,001_B0203720.wav
+Amboseli,Ol Tukai Orok,2/20/99,1999,20,Affiliative,little greeting,Eudora,B0500200,5,1,200,Single,NA,B0500200.wav,Little greeting,EB,1999-02-20_5_1,40,40_Little greeting,001_B0500200.wav
+Amboseli,Ol Tukai Orok,2/20/99,1999,20,Affiliative,little greeting,Eudora,B0500321,5,1,321,Multiple,MultipleOverlappingCalls,B0500321.wav,Little greeting,EB,1999-02-20_5_1,40,40_Little greeting,002_B0500321.wav
+Amboseli,Ol Tukai Orok,2/20/99,1999,20,Affiliative,little greeting,Echo,B0500321,5,1,321,Multiple,MultipleOverlappingCalls,B0500321.wav,Little greeting,EB,1999-02-20_5_1,40,40_Little greeting,002_B0500321.wav
+Amboseli,Ol Tukai Orok,4/2/99,1999,60,Affiliative,greeting,Echo & Ella & Estella,B1102345,11,4,2340,Multiple,MultipleOverlappingCalls,B1102345.wav,Greeting,EB,1999-04-02_11_4,44,44_Greeting,001_B1102345.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Emma,B1600222,16,1,222,Single,NA,B1600222.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,001_B1600222.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella or Emma,B1600230,16,1,230,Multiple,TwoOverlappingCalls,B1600230.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,002_B1600230.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Emma,B1600247,16,1,247,Single,NA,B1600247.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,003_B1600247.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Emma,B1600310,16,1,310,Single,NA,B1600310.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,004_B1600310.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella,B1600318,16,1,318,Single,NA,B1600318.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,005_B1600318.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Emma,B1600406,16,1,406,Single,NA,B1600406.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,006_B1600406.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella,B1600432,16,1,432,Single,NA,B1600432.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,007_B1600432.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella,B1600620,16,1,620,Multiple,TwoOverlappingCalls,B1600620.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,008_B1600620.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella,B1600730,16,1,730,Single,NA,B1600730.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,009_B1600730.wav
+Amboseli,Serena Plains,4/3/99,1999,NA,Calf Reassurance & Protection,coo,Ella,B1601320,16,1,1320,Single,NA,B1601320.wav,Coo,EB,1999-04-03_16_1,48,48_Coo,010_B1601320.wav
+Amboseli,Serena Plains,4/5/99,1999,80,Calf Reassurance & Protection,coo,Ella,B1700835,17,2,835,Single,NA,B1700835.wav,Coo,EB,1999-04-05_17_2,53,53_Coo,001_B1700835.wav
+Amboseli,Serena Plains,4/5/99,1999,80,Calf Reassurance & Protection,coo,Elspeth,B1700853,17,2,853,Single,NA,B1700853.wav,Coo,EB,1999-04-05_17_2,53,53_Coo,002_B1700853.wav
+Amboseli,Serena Plains,4/5/99,1999,80,Calf Reassurance & Protection,coo,Elspeth,B1700905,17,2,905,Single,NA,B1700905.wav,Coo,EB,1999-04-05_17_2,53,53_Coo,003_B1700905.wav
+Amboseli,Serena Plains,4/5/99,1999,80,Calf Reassurance & Protection,coo,Elspeth,B1701018,17,2,1018,Single,NA,B1701018.wav,Coo,EB,1999-04-05_17_2,53,53_Coo,004_B1701018.wav
+Amboseli,Serena Plains,4/5/99,1999,80,Calf Reassurance & Protection,coo,Ella,B1701148,17,2,1148,Single,NA,B1701148.wav,Coo,EB,1999-04-05_17_2,53,53_Coo,005_B1701148.wav
+Amboseli,Serena Plains,4/5/99,1999,60,Movement Space & Leadership,contact,Ely,B1710430,17,10,10420,Multiple,SingleAndOverlappingCalls,B1710430_part1.wav,Contact,EB,1999-04-05_17_10,57,57_Contact,001_B1710430_part1.wav
+Amboseli,Serena Plains,4/5/99,1999,60,Movement Space & Leadership,contact,Ely,B1710430,17,10,10420,Multiple,SingleAndOverlappingCalls,B1710430_part2.wav,Contact,EB,1999-04-05_17_10,57,57_Contact,002_B1710430_part2.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802051,18,4,2051,Multiple,TwoOverlappingCalls,B1802051.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,001_B1802051.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802051,18,4,2051,Multiple,TwoOverlappingCalls,B1802051.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,001_B1802051.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802354,18,4,2354,Single,NA,B1802354.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,002_B1802354.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802552,18,4,2552,Single,NA,B1802552.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,003_B1802552.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802756,18,4,2756,Single,NA,B1802756.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,004_B1802756.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Erin,B1802810,18,4,2800,Multiple,MultipleOverlappingCalls,B1802810.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,005_B1802810.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802810,18,4,2808,Multiple,MultipleOverlappingCalls,B1802810.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,005_B1802810.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802815,18,4,2815,Single,NA,B1802815.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,006_B1802815.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802849,18,4,2849,Single,NA,B1802849.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,007_B1802849.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802914,18,4,2914,Single,NA,B1802914.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,008_B1802914.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802926,18,4,2926,Single,NA,B1802926.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,009_B1802926.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802952,18,4,2940,Multiple,MultipleOverlappingCalls,B1802952.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,010_B1802952.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802952,18,4,2952,Multiple,MultipleOverlappingCalls,B1802952.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,010_B1802952.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1802952,18,4,2952,Multiple,MultipleOverlappingCalls,B1802952.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,010_B1802952.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1803011,18,4,3011,Single,NA,B1803011.wav,Lets go,EB,1999-04-05_18_4,58,58_Lets go,011_B1803011.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1803105,18,5,3105,Single,NA,B1803105.wav,Lets go,EB,1999-04-05_18_5,59,59_Lets go,001_B1803105.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1803400,18,5,3400,Single,NA,B1803400.wav,Lets go,EB,1999-04-05_18_5,59,59_Lets go,002_B1803400.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,let's go,Enid,B1803416,18,5,3416,Single,NA,B1803416.wav,Lets go,EB,1999-04-05_18_5,59,59_Lets go,003_B1803416.wav
+Amboseli,Ol Tukai Orok,4/5/99,1999,21,Movement Space & Leadership,contact answer,Enid,B1810200,18,11,10155,Multiple,MultipleOverlappingCalls,B1810200.wav,Contact,EB,1999-04-05_18_11,61,61_Contact,001_B1810200.wav
+Amboseli,Serena Plains,4/7/99,1999,25,Affiliative,little greeting,Enid,B1904959,19,6,4958,Multiple,MultipleOverlappingCalls,B1904959.wav,Little greeting,EB,1999-04-07_19_6,62,62_Little greeting,001_B1904959.wav
+Amboseli,Serena Plains,4/7/99,1999,25,Affiliative,little greeting,Ella,B1904959,19,6,4959,Multiple,MultipleOverlappingCalls,B1904959.wav,Little greeting,EB,1999-04-07_19_6,62,62_Little greeting,001_B1904959.wav
+Amboseli,Serena Plains,4/7/99,1999,25,Affiliative,little greeting,Eliot,B1905310,19,8,5310,Multiple,MultipleOverlappingCalls,B1905310.wav,Little greeting,EB,1999-04-07_19_8,63,63_Little greeting,001_B1905310.wav
+Amboseli,Serena Plains,4/7/99,1999,25,Affiliative,little greeting,Eliot,B1905449,19,8,5448,Single,NA,B1905449.wav,Little greeting,EB,1999-04-07_19_8,63,63_Little greeting,002_B1905449.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Calf Reassurance & Protection,coo,Ella,B1914450,19,17,14450,Multiple,MultipleOverlappingCalls,B1914450.wav,Coo,EB,1999-04-07_19_17,67,67_Coo,001_B1914450.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Calf Reassurance & Protection,coo,Elettra,B1914510,19,17,14510,Single,NA,B1914510.wav,Coo,EB,1999-04-07_19_17,67,67_Coo,002_B1914510.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Affiliative,greeting,Elspeth,B1915347,19,18,15339,Multiple,MultipleOverlappingCalls,B1915347.wav,Greeting,EB,1999-04-07_19_18,68,68_Greeting,001_B1915347.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Affiliative,greeting,Eudora,B1915347,19,18,15341,Multiple,MultipleOverlappingCalls,B1915347.wav,Greeting,EB,1999-04-07_19_18,68,68_Greeting,001_B1915347.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Affiliative,greeting,Elspeth,B1915347,19,18,15344,Multiple,MultipleOverlappingCalls,B1915347.wav,Greeting,EB,1999-04-07_19_18,68,68_Greeting,001_B1915347.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2000851,20,3,851,Multiple,MultipleOverlappingCalls,B2000851_B2000943_part1.wav,Cadenced,EB,1999-04-07_20_3,70,70_Cadenced,001_B2000851_B2000943_part1.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2001032,20,3,1032,Single,NA,B2001032.wav,Cadenced,EB,1999-04-07_20_3,70,70_Cadenced,002_B2001032.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Movement Space & Leadership,cadenced,Eliot,B2001047,20,3,1047,Single,NA,B2001047.wav,Cadenced,EB,1999-04-07_20_3,70,70_Cadenced,003_B2001047.wav
+Amboseli,Enkongo Narok,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2001100,20,3,1100,Single,NA,B2001100.wav,Cadenced,EB,1999-04-07_20_3,70,70_Cadenced,004_B2001100.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo &  Enid &  Eudora,B2002124,20,5,2124,Multiple,TwoOverlappingCalls,B2002124.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,001_B2002124.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2002134,20,5,2134,Single,NA,B2002134.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,002_B2002134.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2002222,20,5,2222,Multiple,TwoOverlappingCalls,B2002222.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,003_B2002222.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2002235,20,5,2235,Multiple,MultipleOverlappingCalls,B2002235.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,004_B2002235.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Enid,B2002235,20,5,2235,Multiple,MultipleOverlappingCalls,B2002235.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,004_B2002235.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Eudora,B2002316,20,5,2316,Single,NA,B2002316.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,005_B2002316.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2002331,20,5,2331,Single,NA,B2002331.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,006_B2002331.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2002331,20,5,2335,Single,NA,B2002331.wav,Cadenced,EB,1999-04-07_20_5,71,71_Cadenced,006_B2002331.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2004735,20,8,4716,Multiple,MultipleOverlappingCalls,B2004735_part1.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,001_B2004735_part1.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Enid,B2004735,20,8,4726,Multiple,MultipleOverlappingCalls,B2004735_part2.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,002_B2004735_part2.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Ella,B2004747,20,8,4738,Multiple,MultipleOverlappingCalls,B2004747.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,003_B2004747.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2004816,20,8,4816,Single,NA,B2004816.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,004_B2004816.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2004838,20,8,4838,Multiple,TwoOverlappingCalls,B2004838.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,005_B2004838.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2004912,20,8,4912,Single,NA,B2004912.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,006_B2004912.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Enid,B2005034,20,8,5034,Single,NA,B2005034.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,007_B2005034.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2005113,20,8,5113,Single,NA,B2005113.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,008_B2005113.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Erin,B2005415,20,8,5415,Multiple,TwoOverlappingCalls,B2005415.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,009_B2005415.wav
+Amboseli,Ol Tukai Orok Plains,4/7/99,1999,21,Movement Space & Leadership,cadenced,Echo,B2005415,20,8,5416,Multiple,TwoOverlappingCalls,B2005415.wav,Cadenced,EB,1999-04-07_20_8,72,72_Cadenced,009_B2005415.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Affiliative,little greeting,Ella,B2011337,20,10,11337,Single,NA,B2011337.wav,Little greeting,EB,1999-04-08_20_10,73,73_Little greeting,001_B2011337.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Affiliative,little greeting,Emma,B2011339,20,10,11339,Multiple,MultipleOverlappingCalls,B2011339.wav,Little greeting,EB,1999-04-08_20_10,73,73_Little greeting,002_B2011339.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Calf Reassurance & Protection,coo,Ella,B2014540,20,14,14540,Single,NA,B2014540.wav,Coo,EB,1999-04-08_20_14,75,75_Coo,001_B2014540.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Calf Reassurance & Protection,coo,Ella,B2014619,20,14,14619,Multiple,TwoOverlappingCalls,B2014619.wav,Coo,EB,1999-04-08_20_14,75,75_Coo,002_B2014619.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Calf Reassurance & Protection,coo,Eleanor,B2014619,20,14,14619,Multiple,TwoOverlappingCalls,B2014619.wav,Coo,EB,1999-04-08_20_14,75,75_Coo,002_B2014619.wav
+Amboseli,Serena Plains,4/8/99,1999,40,Calf Reassurance & Protection,coo,Ella,B2015014,20,14,15014,Single,NA,B2015014.wav,Coo,EB,1999-04-08_20_14,75,75_Coo,003_B2015014.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100557,21,0,557,Single,NA,B2100557.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,001_B2100557.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100609,21,0,609,Single,NA,B2100609.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,002_B2100609.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100609,21,0,609,Single,NA,B2100609.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,002_B2100609.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100626,21,0,626,Single,NA,B2100626.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,003_B2100626.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100655,21,0,655,Multiple,TwoOverlappingCalls,B2100655.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,004_B2100655.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Elettra,B2100655,21,0,655,Multiple,TwoOverlappingCalls,B2100655.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,004_B2100655.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2100724,21,0,724,Single,NA,B2100724.wav,Coo,EB,1999-05-30_21_0,76,76_Coo,005_B2100724.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2102306,21,4,2306,Single,NA,B2102306.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,001_B2102306.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Elettra,B2102315,21,4,2311,Multiple,TwoOverlappingCalls,B2102315.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,002_B2102315.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2102315,21,4,2315,Multiple,TwoOverlappingCalls,B2102315.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,002_B2102315.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2102411,21,4,2411,Multiple,TwoOverlappingCalls,B2102411.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,003_B2102411.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2102414,21,4,2414,Single,NA,B2102414.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,004_B2102414.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2102429,21,4,2429,Single,NA,B2102429.wav,Coo,EB,1999-05-30_21_4,77,77_Coo,005_B2102429.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200024,22,1,24,Single,NA,B2200024.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,001_B2200024.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200057,22,1,57,Single,NA,B2200057.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,002_B2200057.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200120,22,1,120,Single,NA,B2200120.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,003_B2200120.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200152,22,1,152,Single,NA,B2200152.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,004_B2200152.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200228,22,1,228,Single,NA,B2200228.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,005_B2200228.wav
+Amboseli,Ol Tukai Orok,5/30/99,1999,22,Movement Space & Leadership,let's go,Enid,B2200351,22,1,351,Single,NA,B2200351.wav,Lets go,EB,1999-05-30_22_1,78,78_Lets go,006_B2200351.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Affiliative,greeting,Erin,B2303440,23,4,3440,Multiple,TwoOverlappingCalls,B2303440_B2303514_part1.wav,Greeting,EB,1999-05-31_23_4,83,83_Greeting,001_B2303440_B2303514_part1.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Affiliative,greeting,Erin,B2303459,23,4,3459,Multiple,TwoOverlappingCalls,B2303459_B2303514_part2.wav,Greeting,EB,1999-05-31_23_4,83,83_Greeting,002_B2303459_B2303514_part2.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Affiliative,greeting,Enid,B2303513,23,4,3513,Single,NA,B2303513_B2303514_part3.wav,Greeting,EB,1999-05-31_23_4,83,83_Greeting,003_B2303513_B2303514_part3.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact,Ella,B2313401,23,11,13401,Multiple,TwoOverlappingCalls,B2313401.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,001_B2313401.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact,Esau,B2313401,23,11,13404,Multiple,TwoOverlappingCalls,B2313401.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,001_B2313401.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact,Ella,B2313626,23,11,13626,Multiple,TwoOverlappingCalls,B2313626.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,002_B2313626.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact call,Ella,B2313844,23,11,13844,Single,NA,B2313844.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,003_B2313844.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact,Unknown,B2314124,23,11,14124,Multiple,TwoOverlappingCalls,B2314124.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,004_B2314124.wav
+Amboseli,Ol Tukai Orok,5/31/99,1999,22,Movement Space & Leadership,contact,Ella,B2314124,23,11,14124,Multiple,TwoOverlappingCalls,B2314124.wav,Contact,EB,1999-05-31_23_11,84,84_Contact,004_B2314124.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Eleanor,B2402538,24,NA,2538,Multiple,TwoOverlappingCalls,B2402538.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,001_B2402538.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2402823,24,NA,2823,Multiple,TwoOverlappingCalls,B2402823.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,002_B2402823.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2403944,24,NA,3944,Multiple,TwoOverlappingCalls,B2403944.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,003_B2403944.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Ella,B2404003,24,NA,4003,Multiple,MultipleOverlappingCalls,B2404003.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,004_B2404003.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Eleanor,B2405852,24,NA,5852,Single,NA,B2405852.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,005_B2405852.wav
+Amboseli,OTO,6/1/99,1999,22,Calf Reassurance & Protection,coo,Eleanor,B2405852,24,NA,5852,Single,NA,B2405852.wav,Coo,EB,1999-06-01_24_NA,85,85_Coo,005_B2405852.wav
+Amboseli,OTO,6/1/99,1999,22,Movement Space & Leadership,let's go,Ella,B2402901,24,NA,2901,Multiple,TwoOverlappingCalls,B2402901.wav,Lets go,EB,1999-06-01_24_NA,85,85_Lets go,001_B2402901.wav
+Amboseli,OTO,6/1/99,1999,22,Movement Space & Leadership,let's go,Eleanor,B2402901,24,NA,2901,Multiple,TwoOverlappingCalls,B2402901.wav,Lets go,EB,1999-06-01_24_NA,85,85_Lets go,001_B2402901.wav
+Amboseli,OTO,6/1/99,1999,22,Movement Space & Leadership,let's go,Eleanor,B2402911,24,NA,2911,Single,NA,B2402911.wav,Lets go,EB,1999-06-01_24_NA,85,85_Lets go,002_B2402911.wav
+Amboseli,OTO,8/19/99,1999,22,Affiliative,little greeting,Eleanor,B2502516,25,NA,2516,Multiple,MultipleOverlappingCalls,B2502516.wav,Little greeting,EB,1999-08-19_25_NA,86,86_Little greeting,001_B2502516.wav
+Amboseli,OTO,8/19/99,1999,22,Affiliative,little greeting,Echo & Enid,B2510007,25,NA,10007,Multiple,TwoOverlappingCalls,B2510007.wav,Little greeting,EB,1999-08-19_25_NA,86,86_Little greeting,002_B2510007.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Echo,B2603328,26,NA,3328,Single,NA,B2603328.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,001_B2603328.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Erin,B2605939,26,NA,5939,Multiple,TwoOverlappingCalls,B2605939.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,002_B2605939.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Echo,B2605939,26,NA,5939,Multiple,TwoOverlappingCalls,B2605939.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,002_B2605939.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Echo,B2610420,26,NA,10420,Multiple,TwoOverlappingCalls,B2610420.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,003_B2610420.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Unknown,B2610420,26,NA,10420,Multiple,TwoOverlappingCalls,B2610420.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,003_B2610420.wav
+Amboseli,OTO,8/21/99,1999,8,Movement Space & Leadership,contact,Unknown,B2610434,26,NA,10434,Single,NA,B2610434.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,004_B2610434.wav
+Amboseli,OTO,8/21/99,1999,22,Movement Space & Leadership,contact,Echo,B2611643,26,NA,11643,Single,NA,B2611643.wav,Contact,EB,1999-08-21_26_NA,87,87_Contact,005_B2611643.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,22,Affiliative,little greeting,Eudora,B2710655,27,4,10655,Multiple,MultipleOverlappingCalls,B2710655.wav,Little greeting,EB,1999-08-22_27_4,88,88_Little greeting,001_B2710655.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,22,Movement Space & Leadership,contact,Enid,B2711434,27,6,11431,Single,NA,B2711434.wav,Contact,EB,1999-08-22_27_6,89,89_Contact,001_B2711434.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,22,Movement Space & Leadership,contact,Enid,B2711452,27,6,11452,Single,NA,B2711452_part2.wav,Contact,EB,1999-08-22_27_6,89,89_Contact,002_B2711452_part2.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,22,Movement Space & Leadership,contact,Enid,B2711505,27,6,11502,Multiple,TwoOverlappingCalls,B2711505.wav,Contact,EB,1999-08-22_27_6,89,89_Contact,003_B2711505.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810456,28,6,10440,Multiple,MultipleOverlappingCalls,B2810456_B2810629_part1.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,001_B2810456_B2810629_part1.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Enid,B2810456,28,6,10443,Multiple,MultipleOverlappingCalls,B2810456_B2810629_part1.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,001_B2810456_B2810629_part1.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Ella,B2810456,28,6,10445,Multiple,MultipleOverlappingCalls,B2810456_B2810629_part1.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,001_B2810456_B2810629_part1.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810505,28,6,10505,Single,NA,B2810505_B2810629_part2.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,002_B2810505_B2810629_part2.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810515,28,6,10515,Single,NA,B2810515_B2810629_part3.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,003_B2810515_B2810629_part3.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Enid,B2810526,28,6,10526,Single,NA,B2810526_B2810629_part4.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,004_B2810526_B2810629_part4.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810538,28,6,10538,Single,NA,B2810538_B2810629_part5.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,005_B2810538_B2810629_part5.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Eudora,B2810550,28,6,10550,Single,NA,B2810550_B2810629_part6.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,006_B2810550_B2810629_part6.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Enid,B2810602,28,6,10602,Single,NA,B2810602_B2810629_part7.wav,Contact,EB,1999-08-22_28_6,91,91_Contact,007_B2810602_B2810629_part7.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Ella,B2810820,28,7,10819,Multiple,MultipleOverlappingCalls,B2810820.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,001_B2810820.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810820,28,7,10820,Multiple,MultipleOverlappingCalls,B2810820.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,001_B2810820.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Ella,B2810820,28,7,10824,Multiple,MultipleOverlappingCalls,B2810820.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,001_B2810820.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2810940,28,7,10940,Single,MultipleOverlappingCalls,B2810940.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,002_B2810940.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Ella,B2811139,28,7,11138,Multiple,TwoOverlappingCalls,B2811139.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,003_B2811139.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2811139,28,7,11139,Multiple,TwoOverlappingCalls,B2811139.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,003_B2811139.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2811409,28,7,11409,Multiple,MultipleOverlappingCalls,B2811409.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,004_B2811409.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2811409,28,7,11409,Multiple,MultipleOverlappingCalls,B2811409.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,004_B2811409.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Echo,B2811543,28,7,11543,Multiple,MultipleOverlappingCalls,B2811543.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,005_B2811543.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Unknown EB,B2811543,28,7,11543,Multiple,MultipleOverlappingCalls,B2811543.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,005_B2811543.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Movement Space & Leadership,contact,Unknown,B2811556,28,7,11556,Single,NA,B2811556.wav,Contact,EB,1999-08-22_28_7,92,92_Contact,006_B2811556.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Affiliative,greeting,Unknown EB,B2811640,28,7,11640,Multiple,MultipleOverlappingCalls,B2811640.wav,Greeting,EB,1999-08-22_28_7,92,92_Greeting,001_B2811640.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,40,Affiliative,greeting,Ella & Eudora,B2811707,28,7,11707,Multiple,SingleAndOverlappingCalls,B2811707.wav,Greeting,EB,1999-08-22_28_7,92,92_Greeting,002_B2811707.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Enid,B2812016,28,8,12016,Single,NA,B2812016_B2812030_part1.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,001_B2812016_B2812030_part1.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2812017,28,8,12017,Multiple,TwoOverlappingCalls,B2812017_B2812030_part2.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,002_B2812017_B2812030_part2.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Unknown EB,B2812030,28,8,12030,Multiple,MultipleOverlappingCalls,B2812030_part3.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,003_B2812030_part3.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Unknown EB,B2812030,28,8,12030,Multiple,MultipleOverlappingCalls,B2812030_part3.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,003_B2812030_part3.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Unknown,B2812410,28,8,12409,Single,NA,B2812410.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,004_B2812410.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2812831,28,8,12831,Multiple,MultipleOverlappingCalls,B2812845.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,005_B2812845.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2812848,28,8,12843,Multiple,MultipleOverlappingCalls,B2812848.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,006_B2812848.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella with Erin & others,B2812848,28,8,12848,Multiple,MultipleOverlappingCalls,B2812848.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,006_B2812848.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2812911,28,8,12911,Single,NA,B2812911.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,007_B2812911.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2812953,28,8,12953,Single,NA,B2812953.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,008_B2812953.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2813016,28,8,13016,Single,NA,B2813016.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,009_B2813016.wav
+Amboseli,Ol Tukai Orok,8/22/99,1999,50,Affiliative,greeting,Ella,B2813040,28,8,13040,Single,NA,B2813040.wav,Greeting,EB,1999-08-22_28_8,93,93_Greeting,010_B2813040.wav
