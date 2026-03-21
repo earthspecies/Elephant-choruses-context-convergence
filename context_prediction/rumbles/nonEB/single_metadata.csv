@@ -1,0 +1,151 @@
+FieldSite,Location,Date,Year,GroupSize,Context,ContextType,AgeCaller,AgeClassCaller,SexCaller,CallerName,S.M.SoundFile,MultipleCallConfiguration,NumberCalls,SndFile,ContextTypeNew,Fam
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,20,2,Female,Abigail,Single,NA,1,V3000748.wav,Cadenced,nonEB
+Amboseli,Olodare,12/18/06,2006,150,Separated,lost - contact,22,2,female,Fleur,Single,NA,1,061218-19-0333.wav,Contact,nonEB
+Amboseli,Olodare,12/18/06,2006,150,Separated,lost - contact,22,2,female,Fleur,Single,NA,1,061218-19-0340.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,6,"Movement, Space & Leadership",contact call,24,2,female,Keiko,Single,NA,1,090216-09-0702.wav,Contact,nonEB
+Amboseli,Ilmbarishari West,1/28/20,2020,55,"Movement, Space & Leadership",contact call,20,2,female,Dram,Single,NA,1,200128-19-0625.wav,Contact,nonEB
+Amboseli,Ilmbarishari West,1/28/20,2020,55,"Movement, Space & Leadership",contact call,20,2,female,Dram,Single,NA,1,200128-19-0633.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,24,2,female,Nayanka,Single,NA,1,200217-24-0021.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,24,2,female,Nayanka,Single,NA,1,200217-24-0046.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,24,2,female,Nayanka,Single,NA,1,200217-24-0154.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,24,2,female,Nayanka,Single,NA,1,200217-24-0223.wav,Contact,nonEB
+Amboseli,Observation Hill,2/21/20,2020,70,"Movement, Space & Leadership",contact call,24,2,female,Zodiac,Single,NA,1,200221-07-0050.wav,Contact,nonEB
+Amboseli,Observation Hill,2/21/20,2020,70,"Movement, Space & Leadership",contact answer,24,2,male,Zodiac c18,Single,NA,1,200221-07-0056.wav,Contact,nonEB
+Amboseli,Observation Hill,2/21/20,2020,100,"Movement, Space & Leadership",contact answer,24,2,female,Zap,Single,NA,4,200221-15-0100.wav,Contact,nonEB
+Amboseli,Ol Tukai Orok,2/20/99,1999,60,Movement Space & Leadership,contact,20,2,Female,Charlotte,Single,NA,1,B0103044.wav,Contact,nonEB
+Amboseli,Ol Tukai Orok,2/20/99,1999,60,Movement Space & Leadership,contact answer,20,2,Female,Charlotte,Single,NA,1,B0103047.wav,Contact,nonEB
+Amboseli,Camp,2/19/00,2000,35,Movement Space & Leadership,contact,21,2,Female,Isodora,Single,NA,1,C0503446_C0503445_part1.wav,Contact,nonEB
+Amboseli,Camp,2/19/00,2000,35,Movement Space & Leadership,contact,21,2,Female,Isodora,Single,NA,1,C0503531_C0503445_part4.wav,Contact,nonEB
+Amboseli,Camp,2/19/00,2000,35,"Movement, Space & Leadership",contact,21,2,Female,Isodora,Single,NA,1,C0504537.wav,Contact,nonEB
+Amboseli,Q17,5/28/87,1987,8,Movement Space & Leadership,contact answer,20,2,Female,Sally,Single,NA,1,V1300407.wav,Contact,nonEB
+Amboseli,Q17,5/28/87,1987,8,Calf Reassurance & Protection,coo,20,2,Female,Sally,Single,NA,1,V1300222.wav,Coo,nonEB
+Amboseli,Q17,5/28/87,1987,8,Calf Reassurance & Protection,coo,20,2,Female,Sally,Single,NA,1,V1300225.wav,Coo,nonEB
+Amboseli,Q17,5/28/87,1987,8,Calf Reassurance & Protection,coo,20,2,Female,Sally,Single,NA,1,V1300230.wav,Coo,nonEB
+Amboseli,Q17,5/28/87,1987,NA,Calf Reassurance & Protection,coo,20,2,Female,Sally,Single,NA,1,V1500642.wav,Coo,nonEB
+Amboseli,Q17,5/28/87,1987,NA,Calf Reassurance & Protection,coo,20,2,Female,Sally,Single,NA,1,V1501130.wav,Coo,nonEB
+Amboseli,J11,7/6/87,1987,48,Calf Reassurance & Protection,coo,23,2,Female,Violet,Single,NA,1,V2601115.wav,Coo,nonEB
+Amboseli,ol tukai orok,2/21/09,2009,6,Affiliative,greeting,20,2,female,Elin,Single,NA,1,090221-13-0159.wav,Greeting,nonEB
+Amboseli,Longinye,3/9/22,2022,10,Affiliative,greeting,22,2,female,Escape,Single,NA,7,220309-65-1125_part2.wav,Greeting,nonEB
+Amboseli,M16,1/31/09,2009,14,"Movement, Space & Leadership",let's go,22,2,female,Farida,Single,NA,1,090131-06-0125.wav,Lets go,nonEB
+Amboseli,Ol Tukai Orok,3/9/22,2022,30,Affiliative,little greeting,22,2,female,Artemis,Single,NA,1,220309-51-0835.wav,Little greeting,nonEB
+Amboseli,S19,1/30/09,2009,12,"Movement, Space & Leadership",cadenced,25,3,female,Oprah,Single,NA,1,090130-02-0415_0439_part1.wav,Cadenced,nonEB
+Amboseli,x19,3/4/09,2009,11,"Movement, Space & Leadership",cadenced,26,3,female,Onyx,Single,NA,1,090304-01-2235.wav,Cadenced,nonEB
+Amboseli,NA,3/10/09,2009,8,"Movement, Space & Leadership",contact call,30,3,female,Charity,Single,NA,1,090310-04-0033.wav,Contact,nonEB
+Amboseli,NA,3/10/09,2009,8,"Movement, Space & Leadership",contact answer,30,3,female,Charity,Single,MultipleOverlappingCalls,3,090310-07-0728.wav,Contact,nonEB
+Amboseli,?,3/11/09,2009,6,"Movement, Space & Leadership",contact call,26,3,female,Cecilie,Single,NA,1,090311-06-0126.wav,Contact,nonEB
+Amboseli,w20,3/18/09,2009,6,"Movement, Space & Leadership",contact call,28,3,female,Lorelei,Single,NA,1,090318-22-0040.wav,Contact,nonEB
+Amboseli,Ol Tukai Orok,8/26/99,1999,20,Movement Space & Leadership,contact,33,3,Female,Xeta,Single,NA,1,B3412804.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,2,V3400632.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3401001.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3401300.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,2,V3401806.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3401847.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3402025.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,20,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3402100.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500110.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500138.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500212.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500510.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500632.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500816.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,17,Movement Space & Leadership,contact call,25,3,Female,Shirley,Single,NA,1,V3500912.wav,Contact,nonEB
+Amboseli,P18,7/9/87,1987,10,Movement Space & Leadership,contact,25,3,Female,Shirley,Single,NA,1,V3600739.wav,Contact,nonEB
+Amboseli,u16,2/26/09,2009,10,Calf Reassurance & Protection,coo,26,3,female,Onyx,Single,NA,2,090226-08-0542.wav,Coo,nonEB
+Amboseli,u20,3/2/09,2009,10,Calf Reassurance & Protection,coo,25,3,female,Oprah,Single,NA,2,090302-04-0035.wav,Coo,nonEB
+Amboseli,u20,3/2/09,2009,10,Calf Reassurance & Protection,coo,25,3,female,Ozora,Single,NA,1,090302-05-0241.wav,Coo,nonEB
+Amboseli,Observation Hill,2/18/20,2020,40,Calf Reassurance & Protection,coo or call Angelina?,26,3,female,Abra,Single,NA,1,200218-28-0706.wav,Coo,nonEB
+Amboseli,u20,3/2/09,2009,10,Affiliative,greeting,27,3,female,Ottoline,Single,NA,1,090302-04-0655.wav,Greeting,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Affiliative,greeting,33,3,female,Qasima,Single,NA,1,200219-26-0546.wav,Greeting,nonEB
+Amboseli,J11,7/6/87,1987,48,Affiliative,greeting,39,3,Female,Marianna,Single,NA,1,V2600110.wav,Greeting,nonEB
+Amboseli,t18,2/17/09,2009,9,Separated,call calf/let‚Äôs go,30,3,female,Gwen,Single,NA,1,090217-03-0200.wav,Lets go,nonEB
+Amboseli,x19,3/4/09,2009,11,"Movement, Space & Leadership",let's go,26,3,female,Onyx,Single,NA,1,090304-01-2503.wav,Lets go,nonEB
+Amboseli,Causeway,2/3/20,2020,9,"Movement, Space & Leadership",let‚Äôs go,17,3,female,Alfre,Single,NA,1,200203-12-0158.wav,Lets go,nonEB
+Amboseli,Causeway,2/3/20,2020,9,"Movement, Space & Leadership",let‚Äôs go,17,3,female,Alfre,Single,NA,1,200203-12-0222.wav,Lets go,nonEB
+Amboseli,Ol Tukai,3/7/22,2022,12,"Movement, Space & Leadership",let‚Äôs go,31,3,female,Periwinkle,Single,NA,1,220307-28-0252.wav,Lets go,nonEB
+Amboseli,NW Ol Tukai,9/18/04,2004,23,Affiliative,Little greeting,32,3,female,Audrey,Single,NA,1,040918-04-0807.wav,Little greeting,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",cadenced,37,4,female,Qoral,Single,NA,1,200219-22-0050.wav,Cadenced,nonEB
+Amboseli,Ilmbarishari West,1/28/20,2020,55,"Movement, Space & Leadership",contact answer,40,4,female,Amparo,Single,NA,1,200128-19-0628.wav,Contact,nonEB
+Amboseli,Ilmbarishari West,1/28/20,2020,55,"Movement, Space & Leadership",contact answer,40,4,female,Amparo,Single,NA,1,200128-19-0637.wav,Contact,nonEB
+Amboseli,Ol Tukai Orok,5/31/99,1999,40,Movement Space & Leadership,contact,46,4,Female,Omega,Single,NA,1,B2210523.wav,Contact,nonEB
+Amboseli,Q17,7/4/87,1987,35,Movement Space & Leadership,contact call,39,4,Female,Octavia,Single,NA,1,V2300418.wav,Contact,nonEB
+Amboseli,Ilmbarishari West,1/28/20,2020,55,Calf Reassurance & Protection,coo,40,4,female,Amparo,Single,NA,3,200128-19-0734.wav,Coo,nonEB
+Amboseli,Enkongo Narok north,2/13/20,2020,35,Calf Reassurance & Protection,coo,35,4,female,Angelina,Single,NA,1,200213-13-0606.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,call infant/coo,37,4,female,Qoral,Single,NA,1,200219-08-0013.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",let‚Äôs go,37,4,female,Qoral,Single,NA,1,200219-16-0209.wav,Lets go,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",let‚Äôs go,37,4,female,Qoral,Single,NA,1,200219-16-0216.wav,Lets go,nonEB
+Amboseli,Elephant Camp,9/19/04,2004,20,"Movement, Space & Leadership",Contact answer,66,5,female,Estella,Single,NA,1,040919-06-0444.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact,60,5,female,Keezy,Single,NA,1,090216-10-0928.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact call,60,5,female,Keezy,Single,NA,1,090216-11-1503.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact call,60,5,female,Keezy,Single,NA,1,090216-11-2419.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact,60,5,female,Keezy,Single,NA,1,090216-11-2501.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact call,60,5,female,Keezy,Single,NA,1,090216-11-2532.wav,Contact,nonEB
+Amboseli,l19,2/16/09,2009,12,"Movement, Space & Leadership",contact call,60,5,female,Keezy,Single,NA,1,090216-11-2719.wav,Contact,nonEB
+Amboseli,T16,1/27/09,2009,10,NA,let's go,NA,15,female,Garbatulla,Single,NA,1,090127-07-0009.wav,Lets go,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,9,0B,female,Nastya,Single,NA,1,200217-34-0151.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,9,0B,female,Nastya,Single,NA,1,200217-35-0052.wav,Contact,nonEB
+Amboseli,Ilmbarishari north,2/17/20,2020,40,"Movement, Space & Leadership",contact call,9,0B,female,Nastya,Single,NA,1,200217-37-0008.wav,Contact,nonEB
+Amboseli,Kitirua,2/4/20,2020,13,Calf Reassurance & Protection,coo,8,0B,female,Maalia,Single,NA,1,200204-07-0053.wav,Coo,nonEB
+Amboseli,Kitirua,2/4/20,2020,13,Calf Reassurance & Protection,coo,7,0B,female,Maalia,Single,NA,1,200204-07-0103.wav,Coo,nonEB
+Amboseli,Observation Hill,2/18/20,2020,40,Calf Reassurance & Protection,coo,9,0B,female,Amora,Single,NA,1,200218-28-0434.wav,Coo,nonEB
+Amboseli,Enkongo Narok,2/16/20,2020,10,Affiliative,greeting,8,0B,female,Allura,Single,NA,1,200216-37-0151.wav,Greeting,nonEB
+Amboseli,Enkongo Narok,2/16/20,2020,10,Affiliative,greeting,8,0B,female,Allura,Single,NA,1,200216-37-0153.wav,Greeting,nonEB
+Amboseli,Enkongo Narok,2/16/20,2020,10,Affiliative,greeting,8,0B,female,Allura,Single,NA,1,200216-37-0315.wav,Greeting,nonEB
+Amboseli,S19,2/18/09,2009,6,"Movement, Space & Leadership",let's go,9,0B,male,Excel,Single,NA,1,090218-08-0720.wav,Lets go,nonEB
+Amboseli,S19,2/18/09,2009,6,"Movement, Space & Leadership",let's go,9,0B,male,Excel,Single,NA,1,090218-08-0729.wav,Lets go,nonEB
+Amboseli,S19,2/18/09,2009,6,"Movement, Space & Leadership",let's go,9,0B,male,Excel,Single,NA,1,090218-08-0838.wav,Lets go,nonEB
+Amboseli,S19,2/18/09,2009,6,"Movement, Space & Leadership",let's go,9,0B,male,Excel,Single,NA,1,090218-08-0905.wav,Lets go,nonEB
+Amboseli,Olodare,12/20/06,2006,175,Affiliative,little greeting,7,0B,female,Orora,Single,NA,1,061220-28-0200.wav,Little greeting,nonEB
+Amboseli,Olodare,12/20/06,2006,175,Affiliative,little greeting,6,0B,female,Outlook,Single,NA,NA,061220-28-0316.wav,Little greeting,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000338.wav,Cadenced,nonEB
+Amboseli,x18,2/7/09,2009,3,"Movement, Space & Leadership",contact call,10,1A,female,Orora,Single,NA,1,090207-04-0021.wav,Contact,nonEB
+Amboseli,s19,1/26/09,2009,34,Calf Reassurance & Protection,coo,13,1A,female,Carey,Single,NA,1,090126-10-0120.wav,Coo,nonEB
+Amboseli,w16,2/28/09,2009,22,Calf Reassurance & Protection,coo,14,1A,female,Olya,Single,NA,2,090228-13-0031.wav,Coo,nonEB
+Amboseli,KH4 upper,1/29/20,2020,100,Calf Reassurance & Protection,coo,12,1A,female,Marshmallow,Single,NA,1,200129-19-0032.wav,Coo,nonEB
+Amboseli,Ilmbarishari West,1/31/20,2020,60,Calf Reassurance & Protection,coo,11,1A,female,Faina,Single,NA,2,200131-20-0318_part1.wav,Coo,nonEB
+Amboseli,Ilmbarishari West,1/31/20,2020,60,Calf Reassurance & Protection,coo,11,1A,female,Faina,Single,NA,2,200131-20-0318_part2.wav,Coo,nonEB
+Amboseli,Kitirua,2/4/20,2020,13,Calf Reassurance & Protection,coo,11,1A,female,Maurella,Single,NA,1,200204-07-0003.wav,Coo,nonEB
+Amboseli,Kitirua,2/4/20,2020,13,Calf Reassurance & Protection,coo,11,1A,female,Marshmallow,Single,NA,1,200204-07-0020.wav,Coo,nonEB
+Amboseli,Ilmbarishari,2/11/20,2020,8,Calf Reassurance & Protection,coo,10,1A,female,Arora B,Single,NA,2,200211-05-0414.wav,Coo,nonEB
+Amboseli,Ilmbarishari,2/11/20,2020,8,Calf Reassurance & Protection,coo,10,1A,female,Arora B,Single,NA,1,200211-05-0421.wav,Coo,nonEB
+Amboseli,Ilmbarishari,2/11/20,2020,8,Calf Reassurance & Protection,coo,10,1A,female,Arora B,Single,NA,1,200211-05-0438.wav,Coo,nonEB
+Amboseli,Ilmbarishari,2/11/20,2020,8,Calf Reassurance & Protection,coo,8,1A,female,Amora,Single,NA,1,200211-05-0544.wav,Coo,nonEB
+Amboseli,Enkongo Narok north,2/13/20,2020,35,Affiliative,coo,10,1A,female,Arora B,Single,NA,1,200213-14-0449.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-26-0428.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-26-0458.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-26-0522.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-35-0055.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-35-0149.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,1,200219-35-0205.wav,Coo,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,Calf Reassurance & Protection,coo,10,1A,female,Qaskazi,Single,NA,2,200219-35-0244.wav,Coo,nonEB
+Amboseli,Ol Tukai,3/8/22,2022,30,Calf Reassurance & Protection,coo,10,1A,female,Okota,Single,NA,NA,220308-38-0242.wav,Coo,nonEB
+Amboseli,u19,2/12/09,2009,15,Affiliative,greeting,10,1A,female,Cathy,Single,NA,1,090212-04-0948.wav,Greeting,nonEB
+Amboseli,u19,2/12/09,2009,15,Affiliative,greeting,10,1A,female,Cathy,Single,NA,3,090212-06-1003_part2.wav,Greeting,nonEB
+Amboseli,u16,3/4/09,2009,15,Affiliative,greeting,13,1A,female,Vangelis,Single,NA,1,090304-04-0520.wav,Greeting,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",let‚Äôs go,10,1A,female,Qaskazi,Single,NA,1,200219-38-1154.wav,Lets go,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",let‚Äôs go,10,1A,female,Qaskazi,Single,NA,1,200219-38-1211.wav,Lets go,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",let‚Äôs go,10,1A,female,Qaskazi,Single,NA,1,200219-38-1228.wav,Lets go,nonEB
+Amboseli,u16,2/19/09,2009,6,Affiliative,little greeting,13,1A,female,Orora,Single,NA,1,090219-01-0151.wav,Little greeting,nonEB
+Amboseli,KH4,2/15/20,2020,175,Affiliative,little greeting,13,1A,female,Noyeau,Single,NA,1,200215-20-0030.wav,Little greeting,nonEB
+Amboseli,Q17,5/28/87,1987,12,Affiliative,Little Greeting,13,1A,female,Serefina,Single,NA,1,V1302010.wav,Little greeting,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V2901738.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V2901820.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000015.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000025.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000150.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000315.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000840.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000920.wav,Cadenced,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,cadenced,19,1B,Female,Amelia,Single,NA,1,V3000942.wav,Cadenced,nonEB
+Amboseli,r19,2/11/09,2009,11,"Movement, Space & Leadership",contact call,14,1B,female,Connie,Single,NA,1,090211-01-0006.wav,Contact,nonEB
+Amboseli,t18,2/17/09,2009,9,"Movement, Space & Leadership",contact call,17,1B,female,Galana,Single,NA,1,090217-02-0246.wav,Contact,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",contact acknowledgement,18,1B,female,Quieroz,Single,NA,1,200219-21-0006.wav,Contact,nonEB
+Amboseli,Kitirua KH4 waterhole,2/19/20,2020,60,"Movement, Space & Leadership",contact,18,1B,female,Quieroz,Single,NA,NA,200219-35-0309.wav,Contact,nonEB
+Amboseli,r19,3/16/09,2009,15,Calf Reassurance & Protection,coo,17,1B,female,Garamba,Single,NA,2,090316-03-0537.wav,Coo,nonEB
+Amboseli,u20,2/9/09,2009,25,Affiliative,greeting,16,1B,female,Xylina,Single,NA,1,090209-05-0024.wav,Greeting,nonEB
+Amboseli,s19,2/23/09,2009,12,"Movement, Space & Leadership",let's go,17,1B,female,Gambia,Single,NA,1,090223-03-0139.wav,Lets go,nonEB
+Amboseli,KH4,2/15/20,2020,175,"Movement, Space & Leadership",let's go,18,1B,female,Quieroz,Single,NA,1,200215-35-0653.wav,Lets go,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,let's go,19,1B,Female,Amelia,Single,NA,1,V3001411.wav,Lets go,nonEB
+Amboseli,M15,7/7/87,1987,18,Movement Space & Leadership,let's go,19,1B,Female,Amelia,Single,NA,1,V3002102.wav,Lets go,nonEB
+Amboseli,t18,2/17/09,2009,9,Affiliative,little greeting,17,1B,female,Galana,Single,NA,1,090217-02-0339.wav,Little greeting,nonEB
+Amboseli,Longinye,2/20/00,2000,35,Movement Space & Leadership,contact,10,adult,female,VA short tusked female,Single,NA,2,C0520335_part1.wav,Contact,nonEB
+Amboseli,Longinye,2/20/00,2000,35,Movement Space & Leadership,contact,10,adult,female,VA upcurved assym,Single,NA,2,C0520335_part2.wav,Contact,nonEB
