@@ -1,1 +1,1 @@
-Unzip directories to access rumble feature measurements.
+Unzip subdirectories to access rumble feature measurements.
